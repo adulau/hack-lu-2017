@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: Main page
+  url: https://2017.hack.lu
+
+- title: Call for Papers
+  url: /blog/Call-for-Papers/
+
+- title: Talks
+  url: /talks
+
+- title: Agenda
+  url: /agenda
+
+- title: Info & Registration
+  url: /info
+
+- title: Capture The Flag
+  url: /ctf
+
+- title: Archive
+  url: http://archive.hack.lu/
+
+- title: hack.lu 2016
+  url: http://2016.hack.lu/
