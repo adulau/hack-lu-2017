@@ -1,13 +1,13 @@
 ---
 layout: page
 title:  Info
-excerpt: "Practical information - Hack.lu 2016"
-modified: 2016-03-10T19:44:38.564948-04:00
+excerpt: "Practical information - Hack.lu 2017"
+modified: 2017-03-10T19:44:38.564948-04:00
 ---
 
 # Registration
 
-{% include registration.html %}
+* To be open soon
 
 ## What's included?
 
@@ -24,20 +24,6 @@ modified: 2016-03-10T19:44:38.564948-04:00
 
 The conference will be held as every year in Luxembourg, a small country between France, Belgium and Germany. The conference venue will be the Parc Hotel in Luxembourg-Dommeldange, like in the previous years.
 
-As the rooms at Parc Hotel are all sold out, we suggest you to reserve your room at the following hotels:
-
-[Best Western Euro Hotel](http://www.eurohotel.lu/seiten/home.html?lang=English) at Gonderange (10 min from the Parc Hotel)
-
-We have preferential prices for the rooms: 88 Euro for a single room and 110 Euro for a double room, always with breakfast buffet included. Please make your reservation via email (info@eurohotel.lu) or phone and do not forget to mention “HACK.LU”. The complete form needs to be sent to the hotel.
-
-Bus stops:
-To Parc Hotel in front of the hotel: Gonderange, Stohlbuer
-To Best Western Euro Hotel: Gonderange, Am Duerf or Gonderange, op der Breck
-
-[Park Inn by Radisson at Luxembourg-Gare](http://www.parkinn.com/hotel-luxembourg) (15 min from the Parc Hotel)
-We have preferential prices for the rooms: 189 Euro for a single room and 209 Euro for a double room, always with breakfast buffet included. Hotel can be reserved with the special rate (3 nights in a row) using the [following form](/images/1710 HACKLU 2016 reservation form.docx). The complete form needs to be sent to the hotel.
-
-Hurry-up as the rooms are limited in number!
 
 ## Public transit
 
