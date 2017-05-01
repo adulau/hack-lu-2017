@@ -89,7 +89,7 @@ sponsoring, please contact us by writing an e-mail to info(AT)hack.lu
 
 ## Website
 
-[www.hack.lu](http://2017.hack.lu/)
+[www.hack.lu](https://2017.hack.lu/)
 
-[CfP hack.lu 2017 submission website](http://2017.hack.lu/cfp/)
+[CfP hack.lu 2017 submission website](https://2017.hack.lu/cfp/)
 
