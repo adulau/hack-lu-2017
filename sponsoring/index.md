@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sponsoring hack.lu 2016
-excerpt: "Sponsoring hack.lu 2016"
+title: Sponsoring hack.lu 2017
+excerpt: "Sponsoring hack.lu 2017"
 modified: 2016-04-09T19:44:38.564948-04:00
 ---
 
 
-Sponsoring hack.lu 2016
+Sponsoring hack.lu 2017
 -----------------------
 
 Rates
