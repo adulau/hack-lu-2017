@@ -2,12 +2,12 @@
 layout: page
 title:  Info
 excerpt: "Practical information - Hack.lu 2017"
-modified: 2017-03-10T19:44:38.564948-04:00
+modified: 2017-05-07T19:44:38.564948-04:00
 ---
 
 # Registration
 
-* To be open soon
+{% include registration.html %}
 
 ## What's included?
 
