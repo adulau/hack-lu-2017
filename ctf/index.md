@@ -9,7 +9,7 @@ image:
   creditlink: https://www.flickr.com/photos/adulau/8147615053/
 ---
 
-The 2016's CTF will at hack.lu again be held by [FluxFingers](https://www.fluxfingers.net/), the CTF Team of
+The 2017's CTF will at hack.lu again be held by [FluxFingers](https://www.fluxfingers.net/), the CTF Team of
 Ruhr-Universität Bochum (Germany). This will be the seventh hack.lu CTF held by the FluxFingers.
 
 ![FluxFingers logo]({{ site.url }}/images/logos/fluxfingers.jpg)
@@ -22,16 +22,15 @@ Everyone may participate (onsite or offsite). If you want to win the prizes, you
 
 The CTF will take place during the hack.lu conference and will only last 24h hours this year instead of 48h hours like in the previous years.
 
-* CTF start is 19.10.2016 12:00 CEST (10:00 UTC)
-* CTF end is 20.10.2016 12:00 CEST (10:00 UTC)
+* CTF date not yet decided, but it will be during the conference (17-19 October 2017)
 
 # Topic
 
->Cthulhu
+> tba
 
 # Registration
 
-[Registration is now open](https://cthulhu.fluxfingers.net/register)
+Registration is not yet open
 
 # What
 
