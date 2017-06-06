@@ -20,7 +20,7 @@ Everyone may participate (onsite or offsite). If you want to win the prizes, you
 
 # When
 
-The CTF will take place during the hack.lu conference and will only last 24h hours this year instead of 48h hours like in the previous years.
+The CTF will take place during the hack.lu conference and will last 48h hours like in the previous years.
 
 * CTF date not yet decided, but it will be during the conference (17-19 October 2017)
 
