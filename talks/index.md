@@ -41,7 +41,7 @@ by 杏👼Ąż
 
 The speaker failed to give a proper abstract (as usual).
 
-Bio: Ange Albertini - 杏👼Ąż 
+Bio: 杏👼Ąż 
 ----------------------------
 
 Reverse engineer - author of [Corkami.com](corkami.com). [Github](https://github.com/corkami)
