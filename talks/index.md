@@ -37,7 +37,7 @@ communities.
 
 Infosec and failure
 -------------------
-by 杏👼Ąż - Ange Albertini
+by 杏👼Ąż 
 
 The speaker failed to give a proper abstract (as usual).
 
