@@ -52,21 +52,21 @@ by Vladimir Kropotov and Fyodor Yarochkin
 
 Covfefe or not covfefe? The social network is a very powerful tool of
 influence in modern world. Is your opinion really yours? With this
-presentation we examine a number of social events and the imact they
-hed on social media platforms. We try to undetrstand the dynamics of
-information dissmilation through a social networtk and demostrate how
+presentation we examine a number of social events and the impact they
+had on social media platforms. We try to understand the dynamics of
+information dissemination through a social network and demonstrate how
 these networks are frequently abused by all sorts of malfactors to
 pursue an agenda of their interest. Our findings are presented in form
 of several case studies where we walk through series of major events
 and analyze how these events were played online. Different regional
 groups, different linguistic groups: the behavior on social media
 could be a pre-requisite of activity in kinetic world. Known campaigns
-of character assasination online were in some cases followed by
+of character assassination online were in some cases followed by
 physical extermination or attacks on the objects of attention. We
 examine such behaviours in different national context: Latin America,
 Russia, China, Ukraine and the Middle East and demonstrate the
 affiliation of these activities with other Black Market commodities
-and services. Futher, we discuss how these services could be abused to
+and services. Further, we discuss how these services could be abused to
 have a major impact in physical world.
 
 Bio: Vladimir Kropotov
