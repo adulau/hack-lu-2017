@@ -65,7 +65,7 @@ call for papers.
 
 Full paper submission : no later than 21th July 2017
 
-Notification date : 20th August 2017
+Notification date : 28th August 2017
 
 [Deadlines on the CfP website](http://2017.hack.lu/cfp/deadlines)
 
