@@ -81,7 +81,7 @@ Fyodor is a researcher with TrendMicro Taiwan as well as a Ph.D.
 candidate at EE, National Taiwan University. An early Snort developer,
 and open source evangelist as well as a "happy" programmer. Prior to
 that, Fyodor professional experience includes several years as a
-threat analyst at Armorize and over eight years asa information
+threat analyst at Armorize and over eight years as an information
 security analyst responding to network, security breaches and
 conducting remote network security assessments and network intrusion
 tests for the majority of regional banking, finance, semiconductor and
