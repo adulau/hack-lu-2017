@@ -466,3 +466,138 @@ Bio Lukasz Olejnik
 ------------------
 
 TODO
+
+Workshops
+=========
+
+Reverse Engineering  a (M)MORPG
+-------------------------------
+by Antonin Beaujeant
+
+<!-- 4 or 6 or 8 hours -->
+
+<!-- Other notes:
+Ideally, I would like to set up a game environment locally so the audience can play, reverse, inject along with me.
+For this, I would need a server that can run the game.
+Can this be provided by Hack.lu?
+
+I guess I'm asking a lot, but would that be possible to have two beamers?
+One for the game/hack and the other for the slides?
+If not, one should be enough, but I will just need to switch between screen and laptop often.
+
+-->
+
+This workshop will cover the basics of reverse engineering a (M)MORPG. The
+target will be Pwn Adventure 3, a MMORPG developed by Vector35 for the Ghost in the
+Shellcode 2015 CTF. Despite being old and intentionally vulnerable, the technique and
+methodology used should not differ from reality. We will first have a closer look at the
+network communication between the client and the game server and dissect the custom binary
+protocol used. For this, the instructor will explain a methodology that consist of isolating
+data, analyse the changes and raise assumptions. Once the protocol partly reversed, we will
+build a Wireshark parser (dissector) in order to start analysing the protocol itself. For
+further tests, we will create an asynchronous proxy for intercepting the network traffic in
+order to successfully modify and/or inject packets. In the next part of the workshop, we will
+reverse engineer the client/server logic in order to highlight "secrets" to finish a few
+quests and identify vulnerabilities in the game. We will also patch the binary to become a
+Superman (running faster, jumping higher). Finally, we will hook the DLL in order to hack the
+game "on the fly".
+
+Bio: Antonin Beaujeant - @beaujeant
+-----------------------------------
+
+Antonin Beaujeant [@beaujeant](https://twitter.com/beaujeant) is a professional
+penetration tester and researcher. His primary focus is web app and network
+penetration test but he also enjoy spending time on hardware, reverse and CTF in general.
+
+Hacking workshop mobile devices
+-------------------------------
+by Frank Spierings
+
+<!-- 4 hours -->
+
+Bio: Frank Spierings
+--------------------
+
+Malware Triage Workshop - Malscripts Are The New Exploit Kit
+------------------------------------------------------------
+by Sean Wilson and Sergei Frankoff
+
+<!-- 4 hours, 2h is doable but sub optimal-->
+
+Traditionally malware triage has focused on exploit kits which were the initial
+infection vector of choice, but this is changing. In recent years malscripts and
+file based exploits have become an equally common initial infection vector. Often
+delivered via email, malscripts can take many different forms, WScript, Javascript, or
+embedded macros. However, the goal is always the same; obtain code execution and deliver a
+malicious payload.
+
+In this workshop you will work through the triage of a live malscript sample. During this
+process you will identify and extract malscripts from Office documents, manually deobfuscate the
+malscripts, circumvent anti-analysis techniques, and finally determine the purpose of the scripts and
+payload in order to develop countermeasures.
+
+This workshop is aimed at junior incident responders, hobby malware analysts, and general
+security or IT practitioners. If you have a good understanding of scripting languages like
+VBScript, and Javascript, and you are familiar with windows internals you should have no
+problem completing the workshop. We request that you come prepare with a laptop that you are
+able to use to analyze malware. We strongly recommend installing a Virtual Machine. If you
+would like to install a temporary Windows 10 virtual machine you can [obtain a free copy](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines).
+We also recommend you have Python 2.7 installed on your laptop, you can [obtain a copy](https://www.python.org/download/releases/2.7/).
+
+Bio: Sean Wilson
+----------------
+
+Sean is a co-founder of Open Analysis, and volunteers as a malware researcher. He
+splits his time between reverse engineering malware and building automation tools for
+incident response. He is an active contributor to open source security tools focused on
+incident response and analysis. Sean brings over a decade of experience working in a number of
+incident response and application security roles with a focus on security testing and threat modelling.
+
+Bio: Sergei Frankoff
+--------------------
+
+Sergei is a co-founder of Open Analysis, and volunteers as a malware researcher.
+When he is not reverse engineering malware Sergei is focused on building automation
+tools for malware analysis. Sergei is a strong believer in taking an open, community
+approach to combating cyber crime. He actively contributes to open source tools and tries to
+publish as much analysis as possible. With almost a decade of experience Sergei has held roles both,
+as the manager of an incident response team, and as a malware researcher.
+
+Getting the Most Out of Windows Event Logs
+------------------------------------------
+by David Szili
+
+<!-- 4 hours -->
+
+A typical mistake repeatedly made by many security teams is that they collect such
+large amount of events that at the end, their Security Information and Event Management (SIEM)
+solution chokes on the data fed into it, rendering it slow and ineffective. "Collect all the events!!!"
+sounds nice in theory, but in practice, less is often more and we must select and focus on events that
+provide real value from a security perspective and have an actual use-case behind them. But what if we do
+not even have a SIEM and cannot afford one or do not have the staff or the skill to deploy and maintain one?
+Luckily, in a Microsoft Windows environment we have built-in and free tools at our disposal to get quickly
+started with security monitoring and hunting using Windows Event Logs.
+
+In this workshop, we will go through some of the most important and valuable Windows Events to be
+collected such as AppLocker or EMET events, user and service creation events, PowerShell commands, etc.
+We will discuss how to properly configure Advanced Audit Policy Settings, see how to collect events with
+Windows Event Forwarding (WEF) and how to set up Sysmon for advanced application and process monitoring.
+
+Once we have the list of events we need, we will see a few simple PowerShell commands and modules that
+can help us slice and dice Event Logs like Get-WinEvent. We will also test scripts and tools that are
+made for monitoring and detection, such as DeepBlueCLI. Finally, we will use the free Power BI Desktop to
+build nice dashboards to give us a better overview of the data we are collecting.
+
+Bio: David Szili
+----------------
+
+David Szili is the CTO of Alzette Information Security with penetration testing, security monitoring
+and incident response background, previously working for companies like POST Telecom PSF,
+Dimension Data, Deloitte and Balabit.
+
+David has two Master’s degrees in Computer Engineering and in Networks and Telecommunication
+and a Bachelor’s degree in Electrical Engineering. He also holds several IT security certifications such
+as GSEC, GCED, GCIA, GCIH, GMON, GNFA, GMOB, OSCP, OSWP and CEH.
+
+In his spare time, David likes working on hobby electronics projects, develop new IT security tools or
+sharpen his skills with CTFs and bug bounty programs.
