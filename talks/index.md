@@ -467,6 +467,70 @@ Bio Lukasz Olejnik
 
 TODO
 
+The Bicho: An Advanced Car Backdoor Maker
+-----------------------------------------
+by Sheila Ayelen Berta and Claudio Caracciolo
+
+Attacks targeting connected cars have already been presented in several conferences,
+as well as different tools to spy on CAN buses. However, there have been only a few
+attempts to create something similar to a useful backdoor for the CAN bus. Moreover,
+some of those proofs of concept were built upon Bluetooth technology, limiting the attack
+range and therefore tampering its effects.
+
+Those things are old! Throughout our research we have successfully developed a hardware
+backdoor for the CAN bus, called "The Bicho". Its powerful capabilities render it a very smart
+backdoor. Have you ever imagined the possibility of your car being automatically attacked based on its
+GPS coordinates, its current speed or any other set of parameters? The Bicho makes it all possible.
+
+All the "magic" is in the assembler-coded firmware we developed for a PIC18F2685 microcontroller. A
+ditionally our hardware backdoor has an intuitive graphical interface, called "Car Backdoor Maker",
+which is open-sourced and allows payload customization. The Bicho supports multiple attack payloads and
+it can be used against any vehicle that supports CAN, without limitations regarding manufacturer or model.
+Each one of the payloads is associated to a command that can be delivered via SMS, allowing remote execution
+from any geographical point.
+
+Furthermore, as an advanced feature, the attack payload can be configured to be automatically
+executed once the victim's vehicle is proximate to a given GPS location. The execution can also be
+triggered by detecting the transmission of a particular CAN frame, which can be associated with the
+speed of the vehicle, its fuel level, and some other factors, providing the means to design highly
+sophisticated attacks and execute them remotely.
+
+Bio: Sheila Ayelen Berta - @UnaPibaGeek
+---------------------------------------
+
+Sheila A. Berta is an Information Security Specialist and Developer, who has begun at 12 years
+old by herself. At the age of 15, she wrote hers first book about Web Hacking, published by
+RedUSERS Editorial at different countries. Over the years, Sheila has discovered several
+vulnerabilities in popular web applications such as Facebook, LinkedIN, Hotmail, ImageShack and others.
+
+Actually, Sheila works at Eleven Paths as Security Researcher which is specialized in web
+application security, malware analysis and exploit writing. She is also a developer in ASM x86,
+AutoIT, C/C++, Python and the most popular web application technologies. Additionally, Sheila is
+Security Researcher at UdeMM University, where she works leading  projects about technology and cybersecurity.
+
+Sheila is an International Speaker, who has spoken about different researches at important
+security conferences such as Black Hat USA 2017 & EU 2016 Arsenal, DefCon 25 CHV, Ekoparty
+Security Conference, OWASP Latam Tour, APPSEC Latam, DragonJARCon and others.
+
+Bio: Claudio Caracciolo - @holesec
+----------------------------------
+
+- Actual Chief Security Ambassador at Eleven Paths.
+- Local chapter coordinator at Centro de Ciberseguridad Industrial of Argentina (a Centro de
+  Ciberseguridad Industrial de España Subsidiary - CCI-Es.org)
+- Former President at ISSA Argentina (through periods 2011-2013 and 2013-2015)
+- Information Security specialist consultant - Professor of "Computer Forensics" and "Information Security"
+  classes at Instituto Superior de Seguridad Pública (ISSP)
+- Active member of several information security associations such as: ISSA International, OWASP, Usuaria, Argentina Cibersegura
+- Member of Segurinfo's academic comitee from 2007 to date
+- Guest speaker at several international information security conferences and events such Black Hat USA 2017 Arsenal,
+  DefCon 25 CHV, Ekoparty Security Conference and others.
+- Instructor on Ethical Hacking related issues such as: Defense Methodologies, Platform Hardening, Web Security, and
+  Anti-Forensic Techniques.
+- Social Engineering Passionate.
+- Co-author of "Ethical Hacking, un enfoque metodológico" (Editorial Alfaomega - 2010).
+- Co-organizer of MS Doing Blue event.
+
 Workshops
 =========
 
@@ -601,3 +665,25 @@ as GSEC, GCED, GCIA, GCIH, GMON, GNFA, GMOB, OSCP, OSWP and CEH.
 
 In his spare time, David likes working on hobby electronics projects, develop new IT security tools or
 sharpen his skills with CTFs and bug bounty programs.
+
+SAP Pentest - From outside to company salaries tampering
+--------------------------------------------------------
+by Yvan Genuer
+
+<!-- 3 or 4H (prefered), not on Thursday -->
+
+SAP is boring, too big or too complicated? What about learning SAP Security during a fun CTF workshop?
+Additionally we'll provide you with a pre-configured attacker VM with all tools required to perform workshop activities.
+Attendees learn how to work against different SAP Systems targets with different configuration issues in  a 'realistic' environment.
+Few slides, lots of practice - this is the leitmotiv of this guided SAP pentest workshop.
+
+Bio: Yvan Genuer
+----------------
+
+Yvan has near than 15 years of experience in SAP. Starting out as a SAP basis administrator for various
+well-known French companies, since 5 years, he focuses on SAP Security and is now the head of SAP
+assessment and pentesting at Devoteam security team. Although being a very discreet person, he received
+official acknowledgements from SAP AG for vulnerabilities he's reported. Furthermore, he is a longtime
+member of the Grehack conference organization and has conducted a SAP pentest workshop at Clusir 2017, as
+well as a full training at Hack In Paris 2017.
+

@@ -62,7 +62,7 @@ Wednesday 18 October 2017 (Workshops)
 
 {: class="table"}
 
-Thursday 20 October 2017 (Workshops)
+Thursday 19 October 2017 (Workshops)
 ------------------------------------
 
 | Time | Hollenfels | Echternach - Diekirch |
