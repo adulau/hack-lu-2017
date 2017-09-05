@@ -467,6 +467,131 @@ Bio Lukasz Olejnik
 
 TODO
 
+The Bicho: An Advanced Car Backdoor Maker
+-----------------------------------------
+by Sheila Ayelen Berta and Claudio Caracciolo
+
+Attacks targeting connected cars have already been presented in several conferences,
+as well as different tools to spy on CAN buses. However, there have been only a few
+attempts to create something similar to a useful backdoor for the CAN bus. Moreover,
+some of those proofs of concept were built upon Bluetooth technology, limiting the attack
+range and therefore tampering its effects.
+
+Those things are old! Throughout our research we have successfully developed a hardware
+backdoor for the CAN bus, called "The Bicho". Its powerful capabilities render it a very smart
+backdoor. Have you ever imagined the possibility of your car being automatically attacked based on its
+GPS coordinates, its current speed or any other set of parameters? The Bicho makes it all possible.
+
+All the "magic" is in the assembler-coded firmware we developed for a PIC18F2685 microcontroller. A
+ditionally our hardware backdoor has an intuitive graphical interface, called "Car Backdoor Maker",
+which is open-sourced and allows payload customization. The Bicho supports multiple attack payloads and
+it can be used against any vehicle that supports CAN, without limitations regarding manufacturer or model.
+Each one of the payloads is associated to a command that can be delivered via SMS, allowing remote execution
+from any geographical point.
+
+Furthermore, as an advanced feature, the attack payload can be configured to be automatically
+executed once the victim's vehicle is proximate to a given GPS location. The execution can also be
+triggered by detecting the transmission of a particular CAN frame, which can be associated with the
+speed of the vehicle, its fuel level, and some other factors, providing the means to design highly
+sophisticated attacks and execute them remotely.
+
+Bio: Sheila Ayelen Berta - @UnaPibaGeek
+---------------------------------------
+
+Sheila A. Berta is an Information Security Specialist and Developer, who has begun at 12 years
+old by herself. At the age of 15, she wrote hers first book about Web Hacking, published by
+RedUSERS Editorial at different countries. Over the years, Sheila has discovered several
+vulnerabilities in popular web applications such as Facebook, LinkedIN, Hotmail, ImageShack and others.
+
+Actually, Sheila works at Eleven Paths as Security Researcher which is specialized in web
+application security, malware analysis and exploit writing. She is also a developer in ASM x86,
+AutoIT, C/C++, Python and the most popular web application technologies. Additionally, Sheila is
+Security Researcher at UdeMM University, where she works leading  projects about technology and cybersecurity.
+
+Sheila is an International Speaker, who has spoken about different researches at important
+security conferences such as Black Hat USA 2017 & EU 2016 Arsenal, DefCon 25 CHV, Ekoparty
+Security Conference, OWASP Latam Tour, APPSEC Latam, DragonJARCon and others.
+
+Bio: Claudio Caracciolo - @holesec
+----------------------------------
+
+- Actual Chief Security Ambassador at Eleven Paths.
+- Local chapter coordinator at Centro de Ciberseguridad Industrial of Argentina (a Centro de
+  Ciberseguridad Industrial de España Subsidiary - CCI-Es.org)
+- Former President at ISSA Argentina (through periods 2011-2013 and 2013-2015)
+- Information Security specialist consultant - Professor of "Computer Forensics" and "Information Security"
+  classes at Instituto Superior de Seguridad Pública (ISSP)
+- Active member of several information security associations such as: ISSA International, OWASP, Usuaria, Argentina Cibersegura
+- Member of Segurinfo's academic comitee from 2007 to date
+- Guest speaker at several international information security conferences and events such Black Hat USA 2017 Arsenal,
+  DefCon 25 CHV, Ekoparty Security Conference and others.
+- Instructor on Ethical Hacking related issues such as: Defense Methodologies, Platform Hardening, Web Security, and
+  Anti-Forensic Techniques.
+- Social Engineering Passionate.
+- Co-author of "Ethical Hacking, un enfoque metodológico" (Editorial Alfaomega - 2010).
+- Co-organizer of MS Doing Blue event.
+
+Are your VoLTE and VoWiFi calls secure?
+---------------------------------------
+by Sreepriya Chalakkal
+
+Voice over LTE (VoLTE) as well as Voice over WiFi (VoWiFi) are variants of Voice over IP
+that makes use of IP Multimedia Subsystem (IMS) in its backend. In this talk, we identify
+five different attacks on VoLTE/VoWiFi.
+
+This includes mainly (i)sniffing VoLTE/VoWiFi interfaces, (ii)extracting IPSec keys from IP
+Multimedia Services Identity Module (ISIM) that is embedded within the SIM card, and (iii)performing
+three different kinds of injection attacks in Session Initiation Protocol (SIP) headers that are used for
+signaling of VoLTE/VoWiFi. As a result of VoLTE/VoWiFi sniffing, we identified information disclosures
+such as leaking IMSI, IMEI, location of users and private IP of IMS.
+
+We also managed to extract the ciphering key and the integrity key (CK/IK) used for IPSec from
+ISIM with the help of a hardware device called SIMTrace.
+
+We also discuss three different SIP header injection attacks that enables location
+manipulation and side channel attacks.
+
+It is important to note here that all these attacks are valid on the current 3GPP standards
+that are used by telecom providers. Thus understanding the attacks and mitigating them is of high relevance.
+
+This is a continuation of the work presented by Schmidt et.al in the talk IMSecure –
+Attacking VoLTE at Areas41 conference, 2016. There is also a [reference paper for more information](https://www.ernw.de/download/newsletter/ERNW_Whitepaper_60_Practical_Attacks_On_VoLTE_And_VoWiFi_v1.0.pdf)
+
+Bio: Sreepriya Chalakkal
+------------------------
+
+Sreepriya works at ERNW GmbH as a security researcher focused on telecommunication security.
+
+These days, she spends her time playing with telecommunication devices and sim cards. Sreepriya
+likes to do security analysis of large code bases, packet captures and logs. She completed her
+masters from Technical University of Berlin and University of Trento with a dual degree in Computer
+Security and Privacy in March 2017. She is inspired by the mission "Making the world a safer place" and
+loves to work towards fulfilling that goal.
+
+Snuffleupagus - Killing bugclasses in php7, virtual-patching the rest
+---------------------------------------------------------------------
+by Sébastien (blotus) Blot, Thibault (buixor) Koechlin & Julien (jvoisin) Voisin
+
+Suhosin is a great php module, but unfortunately, it's getting old, new ways have been found
+to compromise php applications, and some aren't working anymore; and it doesn't play well with the
+shiny new php7. As a secure web-hosting company, we needed a reliable and future-proof
+solution to address the flow of new vulnerabilities that are published every day.
+This is why we developed Snuffleupagus, a new (and open-source!) php security module, that
+provides several features that we needed: passively killing several php-specific bug classes,
+but also implementing virtual-patching at the PHP level, allowing to patch vulnerabilities
+in a precise, false-positive-free, ultra-low overhead way, without even touching the applications' code.
+
+Bio: Sébastien (blotus) Blot, Thibault (buixor) Koechlin, Julien (jvoisin) Voisin
+---------------------------------------------------------------------------------
+
+- Sébastien (blotus) Blot is a pretty cool guy.
+- Thibault (bui) Koechlin used to write exploits for fun, he's now CISO at NBS System,
+  writing the naxsi WAF to prevent web pwning.
+- Julien (jvoisin) Voisin used to pwn and reverse stuff while contributing to radare2,
+  he nowadays focus on protecting web stuff while keeping his own bug alive on websec.fr
+  and writing stuff on dustri.org. He's also running some high-speed Tor relay.
+
+
 Workshops
 =========
 
@@ -601,3 +726,25 @@ as GSEC, GCED, GCIA, GCIH, GMON, GNFA, GMOB, OSCP, OSWP and CEH.
 
 In his spare time, David likes working on hobby electronics projects, develop new IT security tools or
 sharpen his skills with CTFs and bug bounty programs.
+
+SAP Pentest - From outside to company salaries tampering
+--------------------------------------------------------
+by Yvan Genuer
+
+<!-- 3 or 4H (prefered), Thuesday -->
+
+SAP is boring, too big or too complicated? What about learning SAP Security during a fun CTF workshop?
+Additionally we'll provide you with a pre-configured attacker VM with all tools required to perform workshop activities.
+Attendees learn how to work against different SAP Systems targets with different configuration issues in  a 'realistic' environment.
+Few slides, lots of practice - this is the leitmotiv of this guided SAP pentest workshop.
+
+Bio: Yvan Genuer
+----------------
+
+Yvan has near than 15 years of experience in SAP. Starting out as a SAP basis administrator for various
+well-known French companies, since 5 years, he focuses on SAP Security and is now the head of SAP
+assessment and pentesting at Devoteam security team. Although being a very discreet person, he received
+official acknowledgements from SAP AG for vulnerabilities he's reported. Furthermore, he is a longtime
+member of the Grehack conference organization and has conducted a SAP pentest workshop at Clusir 2017, as
+well as a full training at Hack In Paris 2017.
+
