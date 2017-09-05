@@ -44,7 +44,7 @@ The speaker failed to give a proper abstract (as usual).
 Bio: 杏👼Ąż
 ----------------------------
 
-Reverse engineer - author of [Corkami.com](corkami.com). [Github](https://github.com/corkami)
+Reverse engineer - author of [Corkami.com](http://www.corkami.com), [Github](https://github.com/corkami).
 
 Information Flows and Leaks in Social Media
 -------------------------------------------
