@@ -531,6 +531,67 @@ Bio: Claudio Caracciolo - @holesec
 - Co-author of "Ethical Hacking, un enfoque metodológico" (Editorial Alfaomega - 2010).
 - Co-organizer of MS Doing Blue event.
 
+Are your VoLTE and VoWiFi calls secure?
+---------------------------------------
+by Sreepriya Chalakkal
+
+Voice over LTE (VoLTE) as well as Voice over WiFi (VoWiFi) are variants of Voice over IP
+that makes use of IP Multimedia Subsystem (IMS) in its backend. In this talk, we identify
+five different attacks on VoLTE/VoWiFi.
+
+This includes mainly (i)sniffing VoLTE/VoWiFi interfaces, (ii)extracting IPSec keys from IP
+Multimedia Services Identity Module (ISIM) that is embedded within the SIM card, and (iii)performing
+three different kinds of injection attacks in Session Initiation Protocol (SIP) headers that are used for
+signaling of VoLTE/VoWiFi. As a result of VoLTE/VoWiFi sniffing, we identified information disclosures
+such as leaking IMSI, IMEI, location of users and private IP of IMS.
+
+We also managed to extract the ciphering key and the integrity key (CK/IK) used for IPSec from
+ISIM with the help of a hardware device called SIMTrace.
+
+We also discuss three different SIP header injection attacks that enables location
+manipulation and side channel attacks.
+
+It is important to note here that all these attacks are valid on the current 3GPP standards
+that are used by telecom providers. Thus understanding the attacks and mitigating them is of high relevance.
+
+This is a continuation of the work presented by Schmidt et.al in the talk IMSecure –
+Attacking VoLTE at Areas41 conference, 2016. There is also a [reference paper for more information](https://www.ernw.de/download/newsletter/ERNW_Whitepaper_60_Practical_Attacks_On_VoLTE_And_VoWiFi_v1.0.pdf)
+
+Bio: Sreepriya Chalakkal
+------------------------
+
+Sreepriya works at ERNW GmbH as a security researcher focused on telecommunication security.
+
+These days, she spends her time playing with telecommunication devices and sim cards. Sreepriya
+likes to do security analysis of large code bases, packet captures and logs. She completed her
+masters from Technical University of Berlin and University of Trento with a dual degree in Computer
+Security and Privacy in March 2017. She is inspired by the mission "Making the world a safer place" and
+loves to work towards fulfilling that goal.
+
+Snuffleupagus - Killing bugclasses in php7, virtual-patching the rest
+---------------------------------------------------------------------
+by Sébastien (blotus) Blot, Thibault (buixor) Koechlin & Julien (jvoisin) Voisin
+
+Suhosin is a great php module, but unfortunately, it's getting old, new ways have been found
+to compromise php applications, and some aren't working anymore; and it doesn't play well with the
+shiny new php7. As a secure web-hosting company, we needed a reliable and future-proof
+solution to address the flow of new vulnerabilities that are published every day.
+This is why we developed Snuffleupagus, a new (and open-source!) php security module, that
+provides several features that we needed: passively killing several php-specific bug classes,
+but also implementing virtual-patching at the PHP level, allowing to patch vulnerabilities
+in a precise, false-positive-free, ultra-low overhead way, without even touching the applications' code.
+
+Bio: Sébastien (blotus) Blot, Thibault (buixor) Koechlin, Julien (jvoisin) Voisin
+---------------------------------------------------------------------------------
+
+- Sébastien (blotus) Blot is a pretty cool guy.
+- Thibault (bui) Koechlin used to write exploits for fun, he's now CISO at NBS System,
+  writing the naxsi WAF to prevent web pwning.
+- Julien (jvoisin) Voisin used to pwn and reverse stuff while contributing to radare2,
+  he nowadays focus on protecting web stuff while keeping his own bug alive on websec.fr
+  and writing stuff on dustri.org. He's also running some high-speed Tor relay.
+
+
 Workshops
 =========
 
