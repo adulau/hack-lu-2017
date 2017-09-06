@@ -337,7 +337,7 @@ by John Bambenek
 
 Almost every major enterprise has the same problem, how to categorize, store, and operationalize the
 various sources of intelligence (internal and external) so that they can be useful. The way we categorize
-information and operationalize information, however, has led to design flaws of almost every Intel
+information and operationalize information, however, has led to design flaws of almost every intel
 platform out there. IP address lists are good for plugging into firewalls, but they don’t appear
 organically in the absence of other critical information like hostnames, file names, TLS certificates, and so on.
 
