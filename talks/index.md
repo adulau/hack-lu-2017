@@ -592,6 +592,37 @@ Bio: Sébastien (blotus) Blot, Thibault (buixor) Koechlin, Julien (jvoisin) Vois
   and writing stuff on dustri.org. He's also running some high-speed Tor relay.
 
 
+SMT Solvers in the IT Security - deobfuscating binary code with logic
+---------------------------------------------------------------------
+by Thaís Moreira Hamasaki
+
+Malware is sneaky. Malicious codes are implemented to stay hidden during the infection and
+operation, preventing their removal and the analysis of the code. Most samples employ some sort of
+packing or obfuscation techniques in order to thwart analysis. Similar techniques are also used to
+protect digital assets from intellectual property theft.
+
+Analysis tools help getting new insights that can be used to secure software and hardware by
+identifying vulnerabilities and issues before they cause harm downstream. Tools and techniques
+beyond standard debuggers can enhance analysts capabilities with better adaptability and automation.
+
+This talk will give you a small taste on some practical applications of SMT solvers in IT security,
+investigating the theoretical limitations and practical solutions, focusing on their use as a tool for
+binary static analysis and code deobfuscation.
+
+
+Bio: Thaís Moreira Hamasaki
+---------------------------
+
+Thaís Moreira Hamasaki is an independent malware researcher focussing on static analysis, reverse
+engineering and logical programming. Thaís started her career within the anti-virus industry
+working on data and malware analysis, where she developed her knowledge on threat protection systems.
+She won the "best rookie speaker" award from BSides London for her first talk about "Using SMT solvers to
+deobfuscate malware binaries". Recent research topics include malware binary code deobfuscation, generic
+unpacking and malware analysis automation. She is an active member of the Düsseldorf Hackerspace, where she
+also leads the groups for Reverse Engineering and x86 Assembly. In her free time, you can find Thaís building
+tools, cooking or climbing somewhere offline.
+
+
 Workshops
 =========
 
