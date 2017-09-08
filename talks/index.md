@@ -462,10 +462,20 @@ information leaks, and show how to steal web browsing history using the ambient 
 end we will take a step back and highlight the need to consider security and privacy during the
 drafting of new standards, as well as discuss how to improve the big picture for web users.
 
-Bio Lukasz Olejnik
-------------------
+Bio: Lukasz Olejnik - @lukOlejnik
+---------------------------------
 
-TODO
+Lukasz Olejnik is a security and privacy researcher and advisor. He specializes in web security and
+privacy, privacy engineering, privacy reviews and privacy impact assessments. He has industry,
+research and technology policy experience, and he contributes to privacy reviews of web standards as a W3C Invited Expert.
+
+Lukasz completed his Ph.D. at INRIA (Grenoble, France).He worked at Poznan Supercomputing and
+Networking Center, CERN and University College London. His interests include information, computer
+security and privacy, especially web, mobile and Internet of Things and Web of Things security and privacy.
+He has experience in privacy reviews and privacy impact assessments and he helps organizations with their
+privacy strategy. He is working on the ePrivacy regulation at the European Parliament as a technology policy advisor.
+
+He can also be found on [his site](https://lukaszolejnik.com).
 
 The Bicho: An Advanced Car Backdoor Maker
 -----------------------------------------
