@@ -532,7 +532,7 @@ Bio: Claudio Caracciolo - @holesec
 - Information Security specialist consultant - Professor of "Computer Forensics" and "Information Security"
   classes at Instituto Superior de Seguridad Pública (ISSP)
 - Active member of several information security associations such as: ISSA International, OWASP, Usuaria, Argentina Cibersegura
-- Member of Segurinfo's academic comitee from 2007 to date
+- Member of Segurinfo's academic committee from 2007 to date
 - Guest speaker at several international information security conferences and events such Black Hat USA 2017 Arsenal,
   DefCon 25 CHV, Ekoparty Security Conference and others.
 - Instructor on Ethical Hacking related issues such as: Defense Methodologies, Platform Hardening, Web Security, and
@@ -643,7 +643,7 @@ technologies be employed to limit overuse of exploits? Or to trace the use of th
 all this intersect with disclosure debates?
 
 CNE by law enforcement is in use around the world, this workshop proposes to discuss that with some real world
-examples, and write counter factuals of how they would have worked with different oversight, and judicial review.
+examples, and write counterfactuals of how they would have worked with different oversight, and judicial review.
 Until every juror is a technologist, hackers will need to contribute to legal processes in order to produce sensible
 educated stakeholders in judicial processes.
 
@@ -677,7 +677,7 @@ Sounds crazy to even try to estimate right?
 
 This presentation will cover the details of the calculation, and how we
 can track these numbers over time. We will also do some visualisation of
-this data and and initiate discussion of where our resources should be
+this data and initiate discussion of where our resources should be
 spent best in fighting the threat of rDDoS attacks. The key contribution
 is an extensible methodology for measuring global potential for rDDoS
 attacks, in realistic terms of throughput. Why might this matter to DDoS
