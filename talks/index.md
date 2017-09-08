@@ -709,6 +709,37 @@ With Eireann he shares quite a few interests starting from data science, asking 
 each other and of course the resentment of writing one's own bio in the third person.
 
 
+Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network
+-----------------------------------------------------------------------------------------------------
+by Omar Eissa
+
+<!-- 45 min -->
+
+Autonomic systems are smart systems which do not need any human management or intervention.
+Cisco is one of the first companies to deploy the technology in which the routers are just "Plug and
+Play" with no need for configuration. All that is needed is 5 commands to build fully automated
+network. It is already supported in pretty much all of the recent software images for enterprise level
+and carrier grade routers/switches.
+
+This is the bright side of the technology. On the other hand, the configuration is hidden and the
+interfaces are inaccessible. The protocol is proprietary and there is no mechanism to know what is
+running within your network.
+
+In this talk, we will have a quick overview on Cisco's Autonomic main components, then I will
+reverse-engineer the proprietary protocol through its multiple phases. Finally, multiple
+vulnerabilities will be presented, one of which allows to crash systems remotely by knowing their
+IPv6 address.
+
+
+Bio: Omar Eissa
+---------------
+
+Omar Eissa is a security Analyst working for ERNW. His interests are network security and reverse-
+engineering. He is a professional Cisco engineer with various years of experience in enterprise and
+ISPs networks. He has given talks and workshops at various conferences like Troopers17, Black Hat
+US and Def Con.
+
+
 Workshops
 =========
 
@@ -848,7 +879,7 @@ SAP Pentest - From outside to company salaries tampering
 --------------------------------------------------------
 by Yvan Genuer
 
-<!-- 3 or 4H (prefered), Thuesday -->
+<!-- 3 or 4H (prefered), Tuesday -->
 
 SAP is boring, too big or too complicated? What about learning SAP Security during a fun CTF workshop?
 Additionally we'll provide you with a pre-configured attacker VM with all tools required to perform workshop activities.
