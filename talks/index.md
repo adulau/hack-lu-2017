@@ -130,7 +130,7 @@ architect for Etsy.com, and has worked for a number of commercial
 consultancies (Bishop Fox, IOACtive, and others) over the past fifteen
 years.  Her work has encompassed everything from core security
 engineering and architecture work for Fortune 50 software firms to
-cross-domain security for news organizations and NGOs targetted by
+cross-domain security for news organizations and NGOs targeted by
 nation states.  Her focus is on the ways task and experience design,
 system architecture, development process change, and operational changes
 can shift the balance of power between adversaries to bring better
@@ -273,8 +273,8 @@ Keynterceptor: Press any key to continue
 by Niels van Dijkhuizen
 
 The past decade has taught us that there are quite some attacks vectors on USB.
-These vary from hardware key-logging to driver fuzzing and from power surge i
-njection to network traffic re-routing. In addition to addressing these issues, the
+These vary from hardware key-logging to driver fuzzing and from power surge
+injection to network traffic re-routing. In addition to addressing these issues, the
 security community has also tried to fix some of these. Several defensive hard- and software
 tools focus on a particular piece of the puzzle. However none, is able to completely mitigate the
 risks that involves the everyday use of USB in our lives.
@@ -482,8 +482,8 @@ backdoor for the CAN bus, called "The Bicho". Its powerful capabilities render i
 backdoor. Have you ever imagined the possibility of your car being automatically attacked based on its
 GPS coordinates, its current speed or any other set of parameters? The Bicho makes it all possible.
 
-All the "magic" is in the assembler-coded firmware we developed for a PIC18F2685 microcontroller. A
-ditionally our hardware backdoor has an intuitive graphical interface, called "Car Backdoor Maker",
+All the "magic" is in the assembler-coded firmware we developed for a PIC18F2685 microcontroller.
+Additionally our hardware backdoor has an intuitive graphical interface, called "Car Backdoor Maker",
 which is open-sourced and allows payload customization. The Bicho supports multiple attack payloads and
 it can be used against any vehicle that supports CAN, without limitations regarding manufacturer or model.
 Each one of the payloads is associated to a command that can be delivered via SMS, allowing remote execution
@@ -562,22 +562,22 @@ Bio: Sreepriya Chalakkal
 
 Sreepriya works at ERNW GmbH as a security researcher focused on telecommunication security.
 
-These days, she spends her time playing with telecommunication devices and sim cards. Sreepriya
+These days, she spends her time playing with telecommunication devices and SIM cards. Sreepriya
 likes to do security analysis of large code bases, packet captures and logs. She completed her
 masters from Technical University of Berlin and University of Trento with a dual degree in Computer
 Security and Privacy in March 2017. She is inspired by the mission "Making the world a safer place" and
 loves to work towards fulfilling that goal.
 
-Snuffleupagus - Killing bugclasses in php7, virtual-patching the rest
+Snuffleupagus - Killing bugclasses in PHP 7, virtual-patching the rest
 ---------------------------------------------------------------------
 by Sébastien (blotus) Blot, Thibault (buixor) Koechlin & Julien (jvoisin) Voisin
 
-Suhosin is a great php module, but unfortunately, it's getting old, new ways have been found
-to compromise php applications, and some aren't working anymore; and it doesn't play well with the
-shiny new php7. As a secure web-hosting company, we needed a reliable and future-proof
+Suhosin is a great PHP module, but unfortunately, it's getting old, new ways have been found
+to compromise PHP applications, and some aren't working anymore; and it doesn't play well with the
+shiny new PHP 7. As a secure web-hosting company, we needed a reliable and future-proof
 solution to address the flow of new vulnerabilities that are published every day.
-This is why we developed Snuffleupagus, a new (and open-source!) php security module, that
-provides several features that we needed: passively killing several php-specific bug classes,
+This is why we developed Snuffleupagus, a new (and open-source!) PHP security module, that
+provides several features that we needed: passively killing several PHP-specific bug classes,
 but also implementing virtual-patching at the PHP level, allowing to patch vulnerabilities
 in a precise, false-positive-free, ultra-low overhead way, without even touching the applications' code.
 
