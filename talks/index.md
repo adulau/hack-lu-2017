@@ -462,10 +462,20 @@ information leaks, and show how to steal web browsing history using the ambient 
 end we will take a step back and highlight the need to consider security and privacy during the
 drafting of new standards, as well as discuss how to improve the big picture for web users.
 
-Bio Lukasz Olejnik
-------------------
+Bio: Lukasz Olejnik - @lukOlejnik
+---------------------------------
 
-TODO
+Lukasz Olejnik is a security and privacy researcher and advisor. He specializes in web security and
+privacy, privacy engineering, privacy reviews and privacy impact assessments. He has industry,
+research and technology policy experience, and he contributes to privacy reviews of web standards as a W3C Invited Expert.
+
+Lukasz completed his Ph.D. at INRIA (Grenoble, France).He worked at Poznan Supercomputing and
+Networking Center, CERN and University College London. His interests include information, computer
+security and privacy, especially web, mobile and Internet of Things and Web of Things security and privacy.
+He has experience in privacy reviews and privacy impact assessments and he helps organizations with their
+privacy strategy. He is working on the ePrivacy regulation at the European Parliament as a technology policy advisor.
+
+He can also be found on [his site](https://lukaszolejnik.com).
 
 The Bicho: An Advanced Car Backdoor Maker
 -----------------------------------------
@@ -590,6 +600,113 @@ Bio: Sébastien (blotus) Blot, Thibault (buixor) Koechlin, Julien (jvoisin) Vois
 - Julien (jvoisin) Voisin used to pwn and reverse stuff while contributing to radare2,
   he nowadays focus on protecting web stuff while keeping his own bug alive on websec.fr
   and writing stuff on dustri.org. He's also running some high-speed Tor relay.
+
+
+SMT Solvers in the IT Security - deobfuscating binary code with logic
+---------------------------------------------------------------------
+by Thaís Moreira Hamasaki
+
+Malware is sneaky. Malicious codes are implemented to stay hidden during the infection and
+operation, preventing their removal and the analysis of the code. Most samples employ some sort of
+packing or obfuscation techniques in order to thwart analysis. Similar techniques are also used to
+protect digital assets from intellectual property theft.
+
+Analysis tools help getting new insights that can be used to secure software and hardware by
+identifying vulnerabilities and issues before they cause harm downstream. Tools and techniques
+beyond standard debuggers can enhance analysts capabilities with better adaptability and automation.
+
+This talk will give you a small taste on some practical applications of SMT solvers in IT security,
+investigating the theoretical limitations and practical solutions, focusing on their use as a tool for
+binary static analysis and code deobfuscation.
+
+
+Bio: Thaís Moreira Hamasaki
+---------------------------
+
+Thaís Moreira Hamasaki is an independent malware researcher focussing on static analysis, reverse
+engineering and logical programming. Thaís started her career within the anti-virus industry
+working on data and malware analysis, where she developed her knowledge on threat protection systems.
+She won the "best rookie speaker" award from BSides London for her first talk about "Using SMT solvers to
+deobfuscate malware binaries". Recent research topics include malware binary code deobfuscation, generic
+unpacking and malware analysis automation. She is an active member of the Düsseldorf Hackerspace, where she
+also leads the groups for Reverse Engineering and x86 Assembly. In her free time, you can find Thaís building
+tools, cooking or climbing somewhere offline.
+
+
+Hacking the Warrant: A workshop on LEA CNE
+------------------------------------------
+by Scarlet Kim & Éireann Leverett
+
+Hacking by law enforcement is on the rise, in criminal cases. What would an ideal warrant look
+like in such cases? What would it allow, and what would it prevent? Who would oversee it? Could cryptographic
+technologies be employed to limit overuse of exploits? Or to trace the use of them years afterwards? How does
+all this intersect with disclosure debates?
+
+CNE by law enforcement is in use around the world, this workshop proposes to discuss that with some real world
+examples, and write counter factuals of how they would have worked with different oversight, and judicial review.
+Until every juror is a technologist, hackers will need to contribute to legal processes in order to produce sensible
+educated stakeholders in judicial processes.
+
+Scarlet is a seasoned lawyer, and Eireann is an unreasonable hacker. Together, they seek to bring
+together law enforcement and computer offence and defence teams, to identify how this could all
+work in a multi stakeholder, multi jurisdictional world.
+
+Bio: Scarlet Kim
+----------------
+
+Scarlet Kim is a Legal Officer at Privacy International, a London-based human rights NGO
+focused on issues arising at the intersection of privacy and technology. Scarlet is involved in
+litigating cases concerning government hacking, bulk interception, intelligence sharing, and freedom of
+information in the courts of the U.S., the U.K. and Europe. Scarlet previously worked as an Associate Legal
+Adviser at the International Criminal Court and as a Gruber Fellow in Global Justice at the New York Civil
+Liberties Union. Scarlet received her J.D. from Yale Law School and her B.A. from Yale University. She is a U.S.-qualified
+lawyer and is admitted as a Solicitor in England and Wales.
+
+Bio: Éireann Leverett
+---------------------
+
+Éireann Leverett was an Open Web Fellow with Privacy International 2016-2017 and continues to enjoy
+collaborating with talented lawyers working on hacking problems.
+
+
+What is the max Reflected Distributed Denial of Service (rDDoS) potential of IPv4?
+----------------------------------------------------------------------------------
+by Éireann Leverett & Aaron Kaplan
+
+Sounds crazy to even try to estimate right?
+
+This presentation will cover the details of the calculation, and how we
+can track these numbers over time. We will also do some visualisation of
+this data and and initiate discussion of where our resources should be
+spent best in fighting the threat of rDDoS attacks. The key contribution
+is an extensible methodology for measuring global potential for rDDoS
+attacks, in realistic terms of throughput. Why might this matter to DDoS
+mitigation, and what can we learn by watching these trends over time?
+
+Bio: Éireann Leverett
+---------------------
+
+Éireann Leverett hates writing bios in the third person. He once placed
+second in an Eireann Leverett impersonation contest. He likes teaching
+the basics, and learning the obscure. He is sometimes jealous of his own
+moustache for being more famous than he is. If he could sum up his life
+in one sentence; he wouldn't. That would be a life-sentence! He is
+primarily known for smashing the myth of the air-gap in industrial
+systems with his master's thesis, and Switches Get Stitches. He believes
+security takes an awful lot more than penetration-testing and speaks
+often about the wider effects of embedded system insecurity. Lately he
+works on security economics matters for cyber insurance with his own
+company Concinnity Risks.
+
+Bio Aaron Kaplan
+----------------
+
+Aaron Kaplan works at CERT.at and is on the board of FIRST.org
+He likes global perspectives on the Internet since he believes this is a common space for all of us.
+Outdated devices on the 'net == pollution.
+
+With Eireann he shares quite a few interests starting from data science, asking smart questions to
+each other and of course the resentment of writing one's own bio in the third person.
 
 
 Workshops
