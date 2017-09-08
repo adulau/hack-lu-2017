@@ -623,6 +623,82 @@ also leads the groups for Reverse Engineering and x86 Assembly. In her free time
 tools, cooking or climbing somewhere offline.
 
 
+Hacking the Warrant: A workshop on LEA CNE
+------------------------------------------
+by Scarlet Kim & Éireann Leverett
+
+Hacking by law enforcement is on the rise, in criminal cases. What would an ideal warrant look
+like in such cases? What would it allow, and what would it prevent? Who would oversee it? Could cryptographic
+technologies be employed to limit overuse of exploits? Or to trace the use of them years afterwards? How does
+all this intersect with disclosure debates?
+
+CNE by law enforcement is in use around the world, this workshop proposes to discuss that with some real world
+examples, and write counter factuals of how they would have worked with different oversight, and judicial review.
+Until every juror is a technologist, hackers will need to contribute to legal processes in order to produce sensible
+educated stakeholders in judicial processes.
+
+Scarlet is a seasoned lawyer, and Eireann is an unreasonable hacker. Together, they seek to bring
+together law enforcement and computer offence and defence teams, to identify how this could all
+work in a multi stakeholder, multi jurisdictional world.
+
+Bio: Scarlet Kim
+----------------
+
+Scarlet Kim is a Legal Officer at Privacy International, a London-based human rights NGO
+focused on issues arising at the intersection of privacy and technology. Scarlet is involved in
+litigating cases concerning government hacking, bulk interception, intelligence sharing, and freedom of
+information in the courts of the U.S., the U.K. and Europe. Scarlet previously worked as an Associate Legal
+Adviser at the International Criminal Court and as a Gruber Fellow in Global Justice at the New York Civil
+Liberties Union. Scarlet received her J.D. from Yale Law School and her B.A. from Yale University. She is a U.S.-qualified
+lawyer and is admitted as a Solicitor in England and Wales.
+
+Bio: Éireann Leverett
+---------------------
+
+Éireann Leverett was an Open Web Fellow with Privacy International 2016-2017 and continues to enjoy
+collaborating with talented lawyers working on hacking problems.
+
+
+What is the max Reflected Distributed Denial of Service (rDDoS) potential of IPv4?
+----------------------------------------------------------------------------------
+by Éireann Leverett & Aaron Kaplan
+
+Sounds crazy to even try to estimate right?
+
+This presentation will cover the details of the calculation, and how we
+can track these numbers over time. We will also do some visualisation of
+this data and and initiate discussion of where our resources should be
+spent best in fighting the threat of rDDoS attacks. The key contribution
+is an extensible methodology for measuring global potential for rDDoS
+attacks, in realistic terms of throughput. Why might this matter to DDoS
+mitigation, and what can we learn by watching these trends over time?
+
+Bio: Éireann Leverett
+---------------------
+
+Éireann Leverett hates writing bios in the third person. He once placed
+second in an Eireann Leverett impersonation contest. He likes teaching
+the basics, and learning the obscure. He is sometimes jealous of his own
+moustache for being more famous than he is. If he could sum up his life
+in one sentence; he wouldn't. That would be a life-sentence! He is
+primarily known for smashing the myth of the air-gap in industrial
+systems with his master's thesis, and Switches Get Stitches. He believes
+security takes an awful lot more than penetration-testing and speaks
+often about the wider effects of embedded system insecurity. Lately he
+works on security economics matters for cyber insurance with his own
+company Concinnity Risks.
+
+Bio Aaron Kaplan
+----------------
+
+Aaron Kaplan works at CERT.at and is on the board of FIRST.org
+He likes global perspectives on the Internet since he believes this is a common space for all of us.
+Outdated devices on the 'net == pollution.
+
+With Eireann he shares quite a few interests starting from data science, asking smart questions to
+each other and of course the resentment of writing one's own bio in the third person.
+
+
 Workshops
 =========
 
