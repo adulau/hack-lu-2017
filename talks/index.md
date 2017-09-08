@@ -879,7 +879,7 @@ SAP Pentest - From outside to company salaries tampering
 --------------------------------------------------------
 by Yvan Genuer
 
-<!-- 3 or 4H (prefered), Thuesday -->
+<!-- 3 or 4H (prefered), Tuesday -->
 
 SAP is boring, too big or too complicated? What about learning SAP Security during a fun CTF workshop?
 Additionally we'll provide you with a pre-configured attacker VM with all tools required to perform workshop activities.
