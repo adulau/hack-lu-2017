@@ -740,6 +740,58 @@ ISPs networks. He has given talks and workshops at various conferences like Troo
 US and Def Con.
 
 
+Hospitals and infosec (the consequences of bad security in health care)
+-----------------------------------------------------------------------
+by Jelena Milosevic
+
+<!-- 45-60 min -->
+
+TODO
+
+Bio: Jelena Milosevic
+---------------------
+
+TODO
+
+In Soviet Russia, Vulnerability Finds You
+-----------------------------------------
+by Inbar Raz
+
+Many times, security researchers pick a subject or a field, and then go hunting for interesting
+stuff. And let’s face it - in lack of real Security-by-Design policies and adequate security
+practices, pretty much every stone you’ll turn will reveal something under it.
+
+But sometimes, interesting things just run into you while you’re going about your business.
+Something just appears before your eyes, begging for your attention.
+
+The stories in this talk are all about research that started because I ran into something and it
+caught my attention - I wasn’t looking for it. From Web Automation, through Loyalty Card
+fraud, Bots on Tinder and Airport Security fails, I just stumbled into all of them. Some allow you
+to steal PII, some allow you to steal money, and some allow you to steal, well, an airport.
+
+*Clarification: While the presentation is named after the famous meme, none of the cases
+actually happened in Russia.*
+
+Bio: Inbar Raz
+--------------
+nbar has been teaching and lecturing about Internet Security and Reverse Engineering for nearly
+as long as he has been doing that himself. He started programming at the age of 9 on his Dragon 64.
+At 13 he got a PC, and promptly started Reverse Engineering at the age of 14. Through
+high-school he was a key figure in the Israeli BBS scene. He spent most of his career in the
+Internet and Data Security field, and the only reason he's not in jail right now is because he chose
+the right side of the law at an earlier age.
+
+Inbar specializes in outside-the-box approach to analyzing security and finding vulnerabilities.
+Using his extensive experience of over 20 years in the Internet and Data security fields, he spent
+3 years at Check Point, running the Malware and Security Research, and 2 years at PerimeterX,
+performing fascinating research on Bots and Automated Attacks and educating both customers
+and the public about the subjects.
+
+Inbar has presented at a number of conferences, including Defcon, Kaspersky SAS, Hack.lu,
+CCC, Virus Bulletin, ZeroNights, ShowMeCon, several Law Enforcement events and Check
+Point events.
+
+
 Workshops
 =========
 
@@ -896,3 +948,38 @@ official acknowledgements from SAP AG for vulnerabilities he's reported. Further
 member of the Grehack conference organization and has conducted a SAP pentest workshop at Clusir 2017, as
 well as a full training at Hack In Paris 2017.
 
+
+Mobile Security workshop
+------------------------
+by Frank Spierings & Arthur Donkers
+
+<!-- 4H to 1day -->
+
+This workshop takes students on a tour of testing the security of mobile applications.
+Loosely following the OWASP mobile security testing guide (MSTG) students learn how to
+find vulnerabilities in mobile applications, circumvent rooting/jailbreak detection and break
+certificate pinning. Knowing these techniques enables students to manipulate the traffic
+between applications and backend systems, play around with local files and inject their own
+code into the applications.
+
+During the workshop, we focus on both static analyses (decompilation of APK files,
+manipulate SMALI and disassembling iOS code) and dynamic analysis (tampering with the
+runtime behavior of applications).
+
+We make extensive use of the Frida toolkit for runtime injection, overloading and hooking
+applications. This toolkit works both on iOS and Android and offers a great interface for
+mobile application testers.
+
+Special attention is given to injecting Frida into applications on a non-rooted or nonjailbroken
+device. Due to advances in both Android and iOS, it will get harder to break the
+security on a device and install your own framework.
+
+Students are encouraged to bring their own laptop with an up-to-date Android SDK and a
+(rooted) device so they can do the hands-on exercises on their own. Students may bring
+their iOS devices with an up-to-date XCode and a valid developer certificate, but the focus
+will be on Android (due to availability). We will demo some of the stuff on IOS.
+
+Bio: Frank Spierings & Arthur Donkers
+-------------------------------------
+
+TODO
