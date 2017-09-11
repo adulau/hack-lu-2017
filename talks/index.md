@@ -796,14 +796,14 @@ Front door Nightmares. When smart is not secure
 by ObiWan666
 
 I will present a closer look onto electro-mechanic door locks, so called "digital cylinders". In my
-talk, i will mainly not speak about the rfid hacking part. This is already don by many other and
-will be only a small topic, including what kind of tools to use, comparsion chart of different rfid
-transponder, etc. I will talk more about the electromechanic design of the locks and where to attack
-these. We will learn, how these locks are working in general and i show different technics used by different
-vendors. After the overview, we will dig deeper into the mechanical and electronical details of the locks. I
-will then show, where are the weaknesses of the design is and how to open the locks without a valid RFID
-Transponder, The audience will learn, how they can identify good and bad locks. Even a "not so secure" lock can
-work in environments, where no classified informations are stored.
+talk, I will mainly not speak about the RFID hacking part. This has already been done by many other and
+will be only a small topic, including what kind of tools to use, comparison chart of different RFID
+transponders, etc. I will talk more about the electro-mechanic design of the locks and where to attack
+these. We will learn, how these locks are working in general and I show different techniques used by different
+vendors. After the overview, we will dig deeper into the mechanical and electronic details of the locks. I
+will then show where the weaknesses of the design are, and, how to open the locks without a valid RFID
+Transponder. The audience will learn how they can identify good and bad locks. Even a "not so secure" lock can
+work in environments where no classified information is stored.
 
 Bio: ObiWan666 - @ObiWan666
 ---------------------------
@@ -812,9 +812,9 @@ Security Evangelist and Firefighter.
 48 Years old. Security enthusiast since decades
 Interested in hardware hacking, forensic, car security and always want to know, how things work.
 
-ObiWan666 is a 48 year old electronic technican, who works in the oil and gas industry since more than 17 years.
-Before that, he joined the german army for more than 6 years as Navigation electronical expert for Helicopters.
-During this time, he was in several missions across the world. Electronical and mechanical background is his
+ObiWan666 is a 48 year old electronic technician, who works in the oil and gas industry since more than 17 years.
+Before that, he joined the german army for more than 6 years as Navigation electronic expert for Helicopters.
+During this time, he was in several missions across the world. Electronic and mechanical background is his
 force to look from both sides on security.
 And last but not least, he his a volunteer firefighter more than 30 Years.
 He knows to be "under fire".
@@ -998,7 +998,7 @@ We make extensive use of the Frida toolkit for runtime injection, overloading an
 applications. This toolkit works both on iOS and Android and offers a great interface for
 mobile application testers.
 
-Special attention is given to injecting Frida into applications on a non-rooted or nonjailbroken
+Special attention is given to injecting Frida into applications on a non-rooted or non-jailbroken
 device. Due to advances in both Android and iOS, it will get harder to break the
 security on a device and install your own framework.
 
