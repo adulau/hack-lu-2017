@@ -819,6 +819,26 @@ force to look from both sides on security.
 And last but not least, he his a volunteer firefighter more than 30 Years.
 He knows to be "under fire".
 
+WTFrance ?! Cryptography and legislation in France
+--------------------------------------------------
+by Okhin
+
+France is known for its lack of respect of politicians, cheese, wine andbaguette. It is less known
+for its fight against Privacy and Cryptography, especially those last years and during the state of emergency.
+
+And, even if you're not French, you should care, because french representatives in european
+parliament are leading the fight against Privacy and Cyptography.
+
+This talk will go through the laws which restrict access to information and cryptography, and how
+some of them failed spectacularly, detail the new government and their position regarding mathematics
+and what is the impact of those representatives on the European Union.
+
+
+Bio: Okhin
+----------
+
+TODO
+
 
 Workshops
 =========
