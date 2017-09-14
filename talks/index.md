@@ -481,6 +481,8 @@ The Bicho: An Advanced Car Backdoor Maker
 -----------------------------------------
 by Sheila Ayelen Berta and Claudio Caracciolo
 
+<!-- Talk the 17th -->
+
 Attacks targeting connected cars have already been presented in several conferences,
 as well as different tools to spy on CAN buses. However, there have been only a few
 attempts to create something similar to a useful backdoor for the CAN bus. Moreover,
@@ -819,6 +821,39 @@ force to look from both sides on security.
 And last but not least, he his a volunteer firefighter more than 30 Years.
 He knows to be "under fire".
 
+WTFrance ?! Cryptography and legislation in France
+--------------------------------------------------
+by Okhin
+
+France is known for its lack of respect of politicians, cheese, wine andbaguette. It is less known
+for its fight against Privacy and Cryptography, especially those last years and during the state of emergency.
+
+And, even if you're not French, you should care, because french representatives in european
+parliament are leading the fight against Privacy and Cyptography.
+
+This talk will go through the laws which restrict access to information and cryptography, and how
+some of them failed spectacularly, detail the new government and their position regarding mathematics
+and what is the impact of those representatives on the European Union.
+
+
+Bio: Okhin
+----------
+
+TODO
+
+Randori, a low interaction honeypot with a vengeance
+----------------------------------------------------
+by Bouke Ban Baethem
+
+TODO
+
+Bio: Bouke Ban Baethem
+----------------------
+
+Fittingly equipped with a history degree, Bouke set out ten-odd years ago as an ethical hacker.
+Recently he saw the light and joined the blue team, where he enjoys solving incidents, building
+tools and chanting "Shit's on fire, yo".
+
 
 Workshops
 =========
@@ -1020,3 +1055,17 @@ on the mobile platform, both iOS and Android. In the early days, testing was rel
 easy as these devices could be rooted and jailbroken without any great effort.
 Nowadays he teams up with Frank to find ways to test mobile applications without the
 need to jailbreak or root it first. They both found a friend in Frida for this.
+
+Bio: Frank Spierings
+--------------------
+
+I am Frank Spierings. I have been a computer nerd since the age of 10. I’ve worked in different
+area’s in the IT industry. In the last couple of years I’ve transitioned from building
+infrastructure to the computer security game. I’ve always enjoyed solving hackig challenges, so
+it is a nice improvement to do this for a living. Arthur Donkers got me interested in mobile
+application security about a year ago. Since then, I’ve been playing around with Frida. I find it a
+lot of fun to be able to manipulate program flow using a fairly easy to use hooking mechanism.
+
+
+When I am not playing these kind of computer games, I enjoy other technical stuff like kick
+boxing and brazillian jiu-jitsu, as well as listening to tecnhical death metal.
