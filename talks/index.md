@@ -481,6 +481,8 @@ The Bicho: An Advanced Car Backdoor Maker
 -----------------------------------------
 by Sheila Ayelen Berta and Claudio Caracciolo
 
+<!-- Talk the 17th -->
+
 Attacks targeting connected cars have already been presented in several conferences,
 as well as different tools to spy on CAN buses. However, there have been only a few
 attempts to create something similar to a useful backdoor for the CAN bus. Moreover,
