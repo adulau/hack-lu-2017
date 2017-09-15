@@ -1088,7 +1088,7 @@ Our WHOIS Distance Algorithm (WDA) works by first extracting the WHOIS data from
 ManaTI was developed using the Django web framework for Python. It has several tools that improve the efficiency and accuracy of the analysts, such as: a dynamic table to visualize weblogs, bulk labeling of weblogs, the possibility to get and show information from VirusTotal or online WHOIS databases, the function to relate domains using the WHOIS distance algorithm explained before and a large number of features to evaluate the performance of the analyst. ManaTI is highly scalable and modular, allowing the analysts to create their own Python scripts using the API provided by the system. 
 
 
-Bio: Raúl Benítez Netto [HoneyJack](https://github.com/HoneyJack)
+Bio: Raúl Benítez Netto - [@HoneyJack](https://github.com/HoneyJack)
 --------------------
 Hi there. I am working with computers since the age of 12. I have been working as Web Developer during 4 years, and then I decided to move from my native Paraguay to the Czech Republic. Nowadays, I am trying to create web applications and help security researchers in their analysis of malware behavior in the network.  I am passionate about cyber-security and machine learning. Master student in the Czech Technical University in Prague
 
