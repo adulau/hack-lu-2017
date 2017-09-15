@@ -1070,7 +1070,7 @@ lot of fun to be able to manipulate program flow using a fairly easy to use hook
 When I am not playing these kind of computer games, I enjoy other technical stuff like kick
 boxing and brazillian jiu-jitsu, as well as listening to tecnhical death metal.
 
-(ManaTI)[https://github.com/stratosphereips/Manati]: Web Assistance for the Threat Analyst, supported by Domain Similarity. Talk and Workshop
+[ManaTI](https://github.com/stratosphereips/Manati): Web Assistance for the Threat Analyst, supported by Domain Similarity. Talk and Workshop
 ------------------------
 by Raúl B. Netto 
 
@@ -1088,11 +1088,11 @@ Our WHOIS Distance Algorithm (WDA) works by first extracting the WHOIS data from
 ManaTI was developed using the Django web framework for Python. It has several tools that improve the efficiency and accuracy of the analysts, such as: a dynamic table to visualize weblogs, bulk labeling of weblogs, the possibility to get and show information from VirusTotal or online WHOIS databases, the function to relate domains using the WHOIS distance algorithm explained before and a large number of features to evaluate the performance of the analyst. ManaTI is highly scalable and modular, allowing the analysts to create their own Python scripts using the API provided by the system. 
 
 
-Bio: Raúl Benítez Netto (HoneyJack)[https://github.com/HoneyJack]
+Bio: Raúl Benítez Netto [HoneyJack](https://github.com/HoneyJack)
 --------------------
-Hi there. I am working with computers since the age of 12. I have been working as Web Developer during 4 years, and then I decided to move from my native Paraguay to the Czech Republic. Nowadays, I am trying to create web applications and help security researchers in their tasks, analysis of malware behavior in the network.  I am passionate about cyber-security and machine learning. Master student in the Czech Technical University in Prague
+Hi there. I am working with computers since the age of 12. I have been working as Web Developer during 4 years, and then I decided to move from my native Paraguay to the Czech Republic. Nowadays, I am trying to create web applications and help security researchers in their analysis of malware behavior in the network.  I am passionate about cyber-security and machine learning. Master student in the Czech Technical University in Prague
 
-I am a member of the (Stratosphere IDS Project)[https://stratosphereips.org] where we are researching to help NGO and companies with their cyber-security issues.  
+I am working in the startup [SingleCase.cz](https://www.singlecase.cz/cz/home/) as a web-mobile developer and in the lab of [Stratosphere IDS Project](https://stratosphereips.org) in [AIC](http://aic.fel.cvut.cz). In Stratosphere lab, we are researching about machine learning and computer security to help NGO and companies with their cyber-security incidents.  
 
 Besides, I am interested in hacking stuff like Rubber Ducky USB or small projects with Raspberry Pi or Omega2. Lover of books, especially of classic writers’ books, backpacker when my time allows it to me and an amateur photographer.
-Stay in touch! (@Piuliss)[https://twitter.com/Piuliss]
+Stay in touch! [@Piuliss](https://twitter.com/Piuliss)
