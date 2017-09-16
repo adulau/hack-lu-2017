@@ -845,7 +845,10 @@ Randori, a low interaction honeypot with a vengeance
 ----------------------------------------------------
 by Bouke Ban Baethem
 
-TODO
+Randori is an opensource honeypot built behind existing services. The author will discuss its
+conception and first results. Based on these results he will suggest a different model for
+thinking about and dealing with global botnet infections: one that is not based on the idea of
+cyber warfare, but cyber disease control.
 
 Bio: Bouke Ban Baethem
 ----------------------
