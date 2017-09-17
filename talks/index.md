@@ -845,7 +845,10 @@ Randori, a low interaction honeypot with a vengeance
 ----------------------------------------------------
 by Bouke Ban Baethem
 
-TODO
+Randori is an opensource honeypot built behind existing services. The author will discuss its
+conception and first results. Based on these results he will suggest a different model for
+thinking about and dealing with global botnet infections: one that is not based on the idea of
+cyber warfare, but cyber disease control.
 
 Bio: Bouke Ban Baethem
 ----------------------
@@ -853,6 +856,67 @@ Bio: Bouke Ban Baethem
 Fittingly equipped with a history degree, Bouke set out ten-odd years ago as an ethical hacker.
 Recently he saw the light and joined the blue team, where he enjoys solving incidents, building
 tools and chanting "Shit's on fire, yo".
+
+API design for cryptography
+---------------------------
+by Frank Denis
+
+It was a Monday morning in the office and, as usual, everyone was busy sorting through their
+mail before starting work.
+
+Still in a daze, Frank innocently and aimlessly typed these words in the Google search box:
+"how to encrypt stuff". As he kept reading, his blood pressure kept increasing. And what
+happened next remains unclear to this day.
+
+Frank will share his story of recovery with the audience. Why he cried in despair at first,
+how he cried even more later, and his slow path to recovery. He will talk about NaCl, libsodium, and
+about the paste (sic), present, and future state of cryptographic libraries, with an emphasis on their mesmerizing APIs.
+
+Finally, he will not announce the public availability of a new, related, open-source project.
+
+
+Bio: Frank Denis
+----------------
+
+Frank is a carbon-based living organism, frequently observed in Paris, France.
+
+When he's not slacking off on Twitter, he offers his expertise in malware analysis, distributed systems,
+application security and digital image processing to companies of all sizes.
+
+He's also a long-time opensource enthusiast and contributor, with an emphasis on security-oriented projects.
+
+Automation Attacks at Scale
+---------------------------
+by Will Glazier & Mayank Dhiman
+
+Automation attacks are currently plaguing organizations in industries ranging from
+financial and retail, to gaming and entertainment. These attacks exploit stolen credential
+leaks, black market & custom attack toolkits, and massively scalable infrastructure to
+launch widely distributed attacks that are extremely difficult to detect, let alone attribute.
+In this presentation we will inform the audience of the scale of this problem, discuss a
+detection methodology to counter these attacks, and walk through 3 real-world examples of
+how attackers created and monetized the distributed infrastructure they require to launch these attacks.
+
+Bio: Will Glazier
+-----------------
+
+Will Glazier serves as Stealth Security’s Threat Intelligence Analyst & Architect. His
+primary interests include understanding attacker infrastructure responsible for malicious
+automation attacks, including account takeover. His current focus is on building out a
+threat intelligence database with indicators relevant to the problem of malicious automation, by
+tracking the use of leaked credentials, shared attacker infrastructure, and black market attack
+toolkits. His previous experience includes a stint at Fireeye. He holds a BA in International
+Relations & Economics from Tufts University.
+
+Bio: Mayank Dhiman
+------------------
+
+Mayank Dhiman serves as Stealth Security’s Principal Security Researcher. His primary
+interests include solving problems related to online fraud and internet abuse. His current
+focus lies in detecting and mitigating malicious automation attacks. Previously, he had
+worked on fraud and abuse related solutions at Facebook and PayPal. He is the co-author of a
+number of research papers and book chapters and his work has been presented at USENIX HotSec,
+NDSS USEC, APWG eCrime and RSA. He holds a MS in Computer Science from UC San Diego.
 
 
 Workshops
