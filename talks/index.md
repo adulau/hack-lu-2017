@@ -639,6 +639,8 @@ Hacking the Warrant: A workshop on LEA CNE
 ------------------------------------------
 by Scarlet Kim & Éireann Leverett
 
+<!-- talk the 18th -->
+
 Hacking by law enforcement is on the rise, in criminal cases. What would an ideal warrant look
 like in such cases? What would it allow, and what would it prevent? Who would oversee it? Could cryptographic
 technologies be employed to limit overuse of exploits? Or to trace the use of them years afterwards? How does
