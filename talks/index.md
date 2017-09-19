@@ -450,6 +450,8 @@ Device sensors meet the web - a story of sadness and regret
 -----------------------------------------------------------
 by Lukasz Olejnik
 
+<!-- talk the 17th -->
+
 The web is becoming increasingly rich in features as more powerful APIs are introduced and
 implemented by browsers. Among the new features are communication channels such as Web
 Bluetooth as well as access to device sensors (light, proximity, magnetic field, etc.)
@@ -750,12 +752,34 @@ by Jelena Milosevic
 
 <!-- 45-60 min -->
 
-TODO
+
+Hospitals can be attractive places for hackers. With access to critical medical records and personally
+identifiable information, there is great opportunity to exploit patients. Health care workers are very
+busy and, more often than not, there is not a lot of interest in computer security. Privacy and the
+protection of computer records sometimes gets put on the back burner, and caring for the devices used in
+hospitals is an after-thought, meaning that computers and other devices are not updated in a timely
+manner and are prone to vulnerabilities.
+
+I see vulnerabilities on all levels and in all roles and locations in the hospital – in software,
+devices, and with humans. The consequences of bad security are huge and can cause harm both to the
+patient and to employees. Criminal behaviour can go unnoticed for long periods. Without proper security
+controls patient records can be manipulated. You can imagine the consequences; they can happen. Security
+needs to be built from the ground up so that employees understand the risks at all levels and can do all
+they can to protect the patient. We must build awareness programmes and develop processes and procedures
+that are possible to follow, thereby creating a higher level of security to ensure that our patients are not in danger.
+
+This presentation will expose the risks and vulnerabilities in hospitals and aims to start driving the discussion and
+generation of ideas for procedures to avoid the dangerous pitfalls that put lives in peril. My goal is to ensure that we
+create a safe and secure environment for our patients and employees.
 
 Bio: Jelena Milosevic
 ---------------------
 
-TODO
+
+A pediatrician and ICU nurse with a lot of experience, working at many different hospitals in the
+Netherlands. Over the past 3 years active in the infosec community and applying the knowledge of
+infosec into the healthcare world to improve the security of the environment for patients and the
+medical staff. A member of the I Am The Cavalry group and a part of the network of Women in Cyber.
 
 In Soviet Russia, Vulnerability Finds You
 -----------------------------------------
