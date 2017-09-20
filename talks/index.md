@@ -624,8 +624,8 @@ investigating the theoretical limitations and practical solutions, focusing on t
 binary static analysis and code deobfuscation.
 
 
-Bio: Thaís Moreira Hamasaki
----------------------------
+Bio: Thaís Moreira Hamasaki - @barbieauglend
+--------------------------------------------
 
 Thaís Moreira Hamasaki is an independent malware researcher focussing on static analysis, reverse
 engineering and logical programming. Thaís started her career within the anti-virus industry
@@ -869,14 +869,14 @@ TODO
 
 Randori, a low interaction honeypot with a vengeance
 ----------------------------------------------------
-by Bouke Ban Baethem
+by Bouke van Laethem
 
 Randori is an opensource honeypot built behind existing services. The author will discuss its
 conception and first results. Based on these results he will suggest a different model for
 thinking about and dealing with global botnet infections: one that is not based on the idea of
 cyber warfare, but cyber disease control.
 
-Bio: Bouke Ban Baethem
+Bio: Bouke van Laethem
 ----------------------
 
 Fittingly equipped with a history degree, Bouke set out ten-odd years ago as an ethical hacker.
