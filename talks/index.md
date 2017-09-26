@@ -610,6 +610,9 @@ SMT Solvers in the IT Security - deobfuscating binary code with logic
 ---------------------------------------------------------------------
 by Thaís Moreira Hamasaki
 
+<!-- Not thursday afternoon -->
+
+
 Malware is sneaky. Malicious codes are implemented to stay hidden during the infection and
 operation, preventing their removal and the analysis of the code. Most samples employ some sort of
 packing or obfuscation techniques in order to thwart analysis. Similar techniques are also used to
