@@ -610,6 +610,9 @@ SMT Solvers in the IT Security - deobfuscating binary code with logic
 ---------------------------------------------------------------------
 by Thaís Moreira Hamasaki
 
+<!-- Not thursday afternoon -->
+
+
 Malware is sneaky. Malicious codes are implemented to stay hidden during the infection and
 operation, preventing their removal and the analysis of the code. Most samples employ some sort of
 packing or obfuscation techniques in order to thwart analysis. Similar techniques are also used to
@@ -1161,28 +1164,88 @@ When I am not playing these kind of computer games, I enjoy other technical stuf
 boxing and brazillian jiu-jitsu, as well as listening to tecnhical death metal.
 
 [ManaTI](https://github.com/stratosphereips/Manati): Web Assistance for the Threat Analyst, supported by Domain Similarity. Talk and Workshop
-------------------------
-by Raúl B. Netto 
+---------------------------------------------------------------------------------------------------------------------------------------------
+by Raúl B. Netto
 
 <!-- 2H -->
-The increasing diversity and amount of malware traffic is pushing researchers to find better detection methods. When security analysts analyze such large amount of traffic, they are overwhelmed and therefore they analyze less traffic with less accuracy.
+The increasing diversity and amount of malware traffic is pushing researchers to find
+better detection methods. When security analysts analyze such large amount of traffic, they are
+overwhelmed and therefore they analyze less traffic with less accuracy.
 
-Among the most used characteristics for finding threats in a network is the analysis of HTTP traffic. The default unit of analysis is usually called weblog, from a log for the web traffic. Security analysts usually use these weblogs to detect threats from infected computers in their internal networks.
+Among the most used characteristics for finding threats in a network is the analysis of HTTP traffic.
+The default unit of analysis is usually called weblog, from a log for the web traffic. Security
+analysts usually use these weblogs to detect threats from infected computers in their internal networks.
 
-To find threats it is needed a complex expert knowledge that ranges from looking for domains which have being reported as malicious, to analyzing the patterns in the URLs and using the WHOIS information of the domains. Although these techniques may work for the average analysis, they highly depend on the humans generating the reputation rules and on the malware being analyzed. All in all, analyzing millions of weblogs with speed and accuracy, balancing the amount of information and finding threats is at least a daunting task. Security analysts need a tool to help them organize their work, and a machine learning algorithm that can improve the detection and speed up the analysis.
+To find threats it is needed a complex expert knowledge that ranges from looking for domains
+which have being reported as malicious, to analyzing the patterns in the URLs and using the
+WHOIS information of the domains. Although these techniques may work for the average analysis,
+they highly depend on the humans generating the reputation rules and on the malware being analyzed.
+All in all, analyzing millions of weblogs with speed and accuracy, balancing the amount of
+information and finding threats is at least a daunting task. Security analysts need a tool to
+help them organize their work, and a machine learning algorithm that can improve the detection and speed up the analysis.
 
-It is in this context that we researched and created a new tool to assist the network security analysts to find threats: the ManaTI project. It has two main goals: First to assist the analysts, be means of a web interface, in evaluating the network traffic to better find and process the network information. Second, to create a machine learning method that can identify domains which WHOIS Information is related. Our algorithm can work as a WHOIS classification of similar domains or as a WHOIS similarity distance.
+It is in this context that we researched and created a new tool to assist the network security
+analysts to find threats: the ManaTI project. It has two main goals: First to assist the analysts,
+be means of a web interface, in evaluating the network traffic to better find and process the network
+information. Second, to create a machine learning method that can identify domains which WHOIS
+Information is related. Our algorithm can work as a WHOIS classification of similar domains or as a WHOIS similarity distance.
 
-Our WHOIS Distance Algorithm (WDA) works by first extracting the WHOIS data from the two domains to be compared, then generating eight features from the comparison of both sets, and finally training and applying a linear model to obtain the final distance. WDA can compute the distance between any type of domains. To make our labelled dataset for training and testing, we use normal domains of well known companies, such as Facebook, Apple and Oracle. We obtained the malicious domains from projects as: DNH-BH[1], Ransomware Tracker[2] and the Stratosphere IPS Project[3]. The WDA can help analysts to find similar domains based on their knowledge of other normal or malicious domains. 
+Our WHOIS Distance Algorithm (WDA) works by first extracting the WHOIS data from the two domains to be
+compared, then generating eight features from the comparison of both sets, and finally training and applying a
+linear model to obtain the final distance. WDA can compute the distance between any type of domains. To make our
+labelled dataset for training and testing, we use normal domains of well known companies, such as Facebook,
+Apple and Oracle. We obtained the malicious domains from projects as: DNH-BH[1], Ransomware Tracker[2] and the
+Stratosphere IPS Project[3]. The WDA can help analysts to find similar domains based on their knowledge of other
+normal or malicious domains.
 
-ManaTI was developed using the Django web framework for Python. It has several tools that improve the efficiency and accuracy of the analysts, such as: a dynamic table to visualize weblogs, bulk labeling of weblogs, the possibility to get and show information from VirusTotal or online WHOIS databases, the function to relate domains using the WHOIS distance algorithm explained before and a large number of features to evaluate the performance of the analyst. ManaTI is highly scalable and modular, allowing the analysts to create their own Python scripts using the API provided by the system. 
+ManaTI was developed using the Django web framework for Python. It has several tools that improve the
+efficiency and accuracy of the analysts, such as: a dynamic table to visualize weblogs, bulk labeling of
+weblogs, the possibility to get and show information from VirusTotal or online WHOIS databases, the
+function to relate domains using the WHOIS distance algorithm explained before and a large number of
+features to evaluate the performance of the analyst. ManaTI is highly scalable and modular, allowing the
+analysts to create their own Python scripts using the API provided by the system.
 
 
 Bio: Raúl Benítez Netto - [@HoneyJack](https://github.com/HoneyJack)
---------------------
-Hi there. I am working with computers since the age of 12. I have been working as Web Developer during 4 years, and then I decided to move from my native Paraguay to the Czech Republic. Nowadays, I am trying to create web applications and help security researchers in their analysis of malware behavior in the network.  I am passionate about cyber-security and machine learning. Master student in the Czech Technical University in Prague
+--------------------------------------------------------------------
 
-I am working in the startup [SingleCase.cz](https://www.singlecase.cz/cz/home/) as a web-mobile developer and in the lab of [Stratosphere IDS Project](https://stratosphereips.org) in [AIC](http://aic.fel.cvut.cz). In Stratosphere lab, we are researching about machine learning and computer security to help NGO and companies with their cyber-security incidents.  
+Hi there. I am working with computers since the age of 12. I have been working as Web Developer
+during 4 years, and then I decided to move from my native Paraguay to the Czech Republic. Nowadays, I am
+trying to create web applications and help security researchers in their analysis of malware behavior in the
+network.  I am passionate about cyber-security and machine learning. Master student in the Czech Technical University in Prague
 
-Besides, I am interested in hacking stuff like Rubber Ducky USB or small projects with Raspberry Pi or Omega2. Lover of books, especially of classic writers’ books, backpacker when my time allows it to me and an amateur photographer.
+I am working in the startup [SingleCase.cz](https://www.singlecase.cz/cz/home/) as a web-mobile developer and in the
+lab of [Stratosphere IDS Project](https://stratosphereips.org) in [AIC](http://aic.fel.cvut.cz). In Stratosphere lab,
+we are researching about machine learning and computer security to help NGO and companies with their cyber-security incidents.
+
+Besides, I am interested in hacking stuff like Rubber Ducky USB or small projects with Raspberry Pi or Omega2.
+Lover of books, especially of classic writers’ books, backpacker when my time allows it to me and an amateur photographer.
 Stay in touch! [@Piuliss](https://twitter.com/Piuliss)
+
+
+Python and Machine Learning
+---------------------------
+by Sébastien Larinier
+
+The goal of workshop is to present how to use python to make machine
+learning. We take examples of security data like malwares and we explain
+how to transform data to use algorithm of machine learnings. We details the
+different algorithms and the different librairies Scikit-learn and
+Tensorflow.
+
+The algorithms help to clusterize quickly a database malware to create yara
+signature for using in Incident Response.
+The participants will work on little dataset and develop some code based on
+theses librairies and create yara signature.
+
+Bio: Sébastien Larinier - [@sebdraven](https://twitter.com/sebdraven)
+---------------------------------------------------------------------
+
+Sébastien Larinier currently is an freelance Senior Researcher
+and Incident Handler after created the CERT Sekoia located in Paris. Member
+of the honeyproject chapter France and co organizer of botconf. Sébastien
+focused his work on botnet hunting, malware analysis, network forensics,
+early compromission detection, forensic and incident response. Python
+addict he supports different opensource projects like FastIR, veri-sig,
+Oletools, pymisp, malcom…,
+
