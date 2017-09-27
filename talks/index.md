@@ -947,6 +947,30 @@ worked on fraud and abuse related solutions at Facebook and PayPal. He is the co
 number of research papers and book chapters and his work has been presented at USENIX HotSec,
 NDSS USEC, APWG eCrime and RSA. He holds a MS in Computer Science from UC San Diego.
 
+Bug hunting using symbolic virtual machines!
+--------------------------------------------
+by Anto Joseph
+
+<!-- 17th or 18th -->
+
+In this talk , we introduce the participants to the world of symbolic execution. It's uses in
+reverse engineering, fuzzing or vulnerability discovery is less known in the infosec community.
+We try to impart the basics to get up and running with the KLEE symbolic virtual machine and
+solve some interesting challenges. Software Vulnerabilities like memory corruptions, certain
+logical bugs, complex arithmetic used for obfuscation etc could be easily solved using
+symbolic execution. Symbolic execution is well discussed in academic papers, but it is not widely
+used by security researchers. It has been proved with tools like angr that they are remarkable
+in detecting vulnerabilities.
+
+Bio: Anto Joseph
+----------------
+
+Anto Joseph is a Security Engineer at Intel. He has 4 years of corporate experience in developing
+and advocating security in Mobile and Web Platforms. Machine Learning is one of his key areas of
+Interest. He is very passionate about exploring new ideas in these areas and has been a presenter
+and trainer at various security conferences including BH USA 2016, DEF CON 24, BruCon,
+HackInParis, HITB Amsterdam, NullCon, GroundZero, c0c0n, XorConf, and more. He is an active
+contributor to many open-source projects and some of his work is available at https://github.com/antojoseph
 
 Workshops
 =========
