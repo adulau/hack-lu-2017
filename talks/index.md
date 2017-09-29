@@ -1273,3 +1273,32 @@ early compromission detection, forensic and incident response. Python
 addict he supports different opensource projects like FastIR, veri-sig,
 Oletools, pymisp, malcom…,
 
+Breaking Apps with Frida
+------------------------
+by Jahmel Harris
+
+Frida well know by mobile application testers as a way to bypass security controls such as root
+detection or SSL pinning. At its core, frida is a framework for injecting JavaScript into running
+applications that makes things significantly easier when it comes to reverse engineering and modifying binaries.
+
+This 2 hour workshop will go though using Frida on Linux and Android and though exercises and
+walkthroughs show how Frida can be used to rapidly reverse engineer applications to understand
+logic flow, dump secrets and bypass security controls.
+
+Although what we look at here is relevant to mobile applications, this is not a mobile hacking
+workshop (in fact, most exercises will take place on Linux binaries) but might be useful to
+mobile testers looking to take their security testing to the next level.
+
+
+Bio: Jahmel Harris
+------------------
+
+Jahmel is a security researcher and hacker. He co-founded Digital Interruption this year; a
+security testing consultancy which also works with organisations to development tools,
+techniques and methodologies to integrate security into agile development teams. With a
+background in not only security testing but software development, Jahmel is able to advise
+engineers on balancing security with functionality.
+
+Jahmel has a particular interest in mobile application security, reverse engineering and
+radio and has presented talks and workshops at home in the UK and abroad. He also runs
+Manchester Grey Hats - a group aiming to bring hackers together to share knowledge and skills.
