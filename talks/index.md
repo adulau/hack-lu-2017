@@ -450,7 +450,7 @@ Device sensors meet the web - a story of sadness and regret
 -----------------------------------------------------------
 by Lukasz Olejnik
 
-<!-- talk the 17th -->
+<!-- talk the 17th, 40 min -->
 
 The web is becoming increasingly rich in features as more powerful APIs are introduced and
 implemented by browsers. Among the new features are communication channels such as Web
@@ -1302,3 +1302,34 @@ engineers on balancing security with functionality.
 Jahmel has a particular interest in mobile application security, reverse engineering and
 radio and has presented talks and workshops at home in the UK and abroad. He also runs
 Manchester Grey Hats - a group aiming to bring hackers together to share knowledge and skills.
+
+Programming Wireshark With Lua
+------------------------------
+by Didier Stevens
+
+In this 2 hour workshop, you will learn how to program Wireshark with the
+Lua programming language.
+
+Wireshark can be extended using the C and Lua programming languages. In
+this workshop, we will look into Lua taps and dissectors to help you
+analyze traffic that "pure" Wireshark does not understand. Wireshark
+dissectors are often designed to analyze a network protocol.
+You will learn how to install Lua dissectors and program your own.
+Say you are reversing a botnet, then you can develop your own dissector
+that analyses the custom network protocol that the botnet uses to
+communicate between the C&C and the clients. But custom dissectors can help
+you even with known network protocols. For example, Didier will teach you
+the inner workings of a simple custom dissector he developed in Lua to
+display TCP flags like Snort (this was later introduced as a permanent
+feature in Wireshark).
+
+Attendees of the workshop should bring a laptop with Wireshark installed
+and have administrative rights.
+
+Bio: Didier Stevens
+-------------------
+
+Didier Stevens (Microsoft MVP, SANS ISC Handler, Wireshark Certified
+Network Analyst, ...) is a Senior Analyst working at [NVISO](https://www.nviso.be).
+Didier has given Wireshark 2-day trainings at several security conferences.
+You can find his open source security tools on his [IT security related blog](https://blog.didierstevens.com).
