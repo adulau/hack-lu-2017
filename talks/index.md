@@ -1003,6 +1003,47 @@ Jeroen received his Ph.D. degree from the University of Amsterdam in 2010 for hi
 Model for Computer Networks, the Network Description Language", after which he worked as a researcher at the University of Amsterdam until 2015.
 
 
+TIDS: A Framework for Detecting Threats in Telecom Networks
+-----------------------------------------------------------
+by Alexandre De Oliveira & Cu D. Nguyen
+
+Telecommunication networks started to be designed 40 years ago without taking into account security to a large
+extent. As a result, they are known to be vulnerable to various attacks, such as location tracking, spoofing, and
+interception. In parallel, we have seen recently more services giving an easy access to SS7 interconnection, SMSC and
+interception of calls and SMS. This challenges our security objectives. Moreover, Telecom networks are considered
+critical infrastructure and protecting them is a must for the nation.
+
+We present a monitoring framework, called TIDS - Telecom IDS, which we devise at POST Luxembourg for
+security network monitoring and detecting anomalies. The aim is to protect our infrastructure from
+abuses and DoS attacks on one hand. On the other hand, we want to pro-actively detect security related
+issues affecting our subscribers that pertain to spoofing and user privacy evasion, among others. The
+proposed framework consists of two main components. First, a data collector listens to live signaling data,
+parses and filters relevant events before sending them to Splunk, an industry-leading bigdata analytics platform.
+Second, an analytics app, which rests on top of Splunk, applies various statistical and machine-learning methods to
+provide the user with real-time traffic and anomaly reports.
+
+Bio: Alexandre De Oliveira
+--------------------------
+
+As telecom security researcher, Alexandre De Oliveira is part of the POST.lu CSE Red Team. Previously
+coming from P1 Security were he provided security expertise for SS7/SIGTRAN, LTE technologies and all the
+systems linked to critical infrastructures for major telecom networks, he has always been looking for new
+security challenges around unknown & proprietary technologies that telecom networks cherish so much. Speaker at
+different conferences about telecom security, Alexandre started mainly research in offensive telecom security and more
+recently moved to a more chalenging part, the defense which back is theses years was notexistent. Conferences were he
+presented excludes HITB, Troopers, Hackito, CCC.
+
+Bio: Cu D. Nguyen
+-----------------
+
+Dr. Cu D. Nguyen has 15+ years proven broad and deep experience in machine learning, computer
+security, and secure software engineering. He received his Ph.D. degree with a distinguished
+dissertation in the field of Artificial Intelligence and Software Engineering from the University of
+Trento, Italy in 2009. Before joining POST Luxembourg as a Data Scientist and Security Expert, he
+worked as a researcher at the University of Luxembourg and has published 50+ scientific papers to
+prestigious international conferences and journals.
+
+
 Workshops
 =========
 
