@@ -24,13 +24,13 @@ Tuesday 17 October 2017 (Talks)
 | 11:15 | [Keynote: Queer Privacy & Building Consensual Systems](http://2017.hack.lu/talks/#queer-privacy--building-consensual-systems) ([Sarah Jamie Lewis](http://2017.hack.lu/talks/#bio-sarah-jamie-lewis)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 | [Countering Security Threats by Sharing Information: Emerging Civil Society Practices](http://2017.hack.lu/talks/#countering-security-threats-by-sharing-information-emerging-civil-society-practices) ([Becky Kazansky](http://2017.hack.lu/talks/#bio-becky-kazansky)) |
+| 13:30 | [ManaTI: Web Assistance for the Threat Analyst, supported by Domain Similarity](http://2017.hack.lu/talks/#manatihttpsgithubcomstratosphereipsmanati-web-assistance-for-the-threat-analyst-supported-by-domain-similarity-talk-and-workshop) ([Raúl B. Netto](http://2017.hack.lu/talks/#bio-ral-bentez-netto---honeyjackhttpsgithubcomhoneyjack))|
 | 14:15 | [Digital Vengeance: Exploiting Notorious C&C Toolkits](http://2017.hack.lu/talks/#digital-vengeance-exploiting-notorious-cc-toolkits) ([Waylon Grange](http://2017.hack.lu/talks/#bio-waylon-grange)) <!--- static: day -->|
 | 15:00 | [Malicious use of Microsoft "Local Administrator Password Solution"](http://2017.hack.lu/talks/#malicious-use-of-microsoft-local-administrator-password-solution) ([Maxime Clementz](http://2017.hack.lu/talks/#bio-maxime-clementz--antoine-goichot), [Antoine Goichot](http://2017.hack.lu/talks/#bio-maxime-clementz--antoine-goichot)) <!--- static 17 or 18 -->|
 | 15:45 | Refreshment break |
 | 16:00 | [Device sensors meet the web - a story of sadness and regret](http://2017.hack.lu/talks/#device-sensors-meet-the-web---a-story-of-sadness-and-regret) ([Lukasz Olejnik](http://2017.hack.lu/talks/#bio-lukasz-olejnik---lukolejnik), [Claudio Caracciolo](http://2017.hack.lu/talks/#bio-claudio-caracciolo---holesec))<!--- static on 17 -->|
 | 16:45 | [The Bicho: An Advanced Car Backdoor Maker](http://2017.hack.lu/talks/#the-bicho-an-advanced-car-backdoor-maker) ([Sheila Ayelen Berta](http://2017.hack.lu/talks/#bio-sheila-ayelen-berta---unapibageek)) <!--- static on 17--> |
-| 17:30 | |
+| 17:30 |[Countering Security Threats by Sharing Information: Emerging Civil Society Practices](http://2017.hack.lu/talks/#countering-security-threats-by-sharing-information-emerging-civil-society-practices) ([Becky Kazansky](http://2017.hack.lu/talks/#bio-becky-kazansky))  |
 | 18:15 |[Intel AMT: Using & Abusing the Ghost in the Machine](http://2017.hack.lu/talks/#intel-amt-using--abusing-the-ghost-in-the-machine) ([Parth Shukla](http://2017.hack.lu/talks/#bio-parth-shukla)) <!--- static 45+15 (Last talk of the day) --> |
 {: class="table"}
 
@@ -88,16 +88,15 @@ Tuesday 17 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 09:00 | | |
 | 09:30 |  *ca. 2 h*||
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 |<!--- static -->||
+| 13:30 | [Reverse Engineering  a (M)MORPG](http://2017.hack.lu/talks/#reverse-engineering--a-mmorpg) ([](http://2017.hack.lu/talks/#bio-antonin-beaujeant---beaujeant)) *ca. 6 h* <!--- static duration-->|[Mobile Security workshop](http://2017.hack.lu/talks/#mobile-security-workshop) ([Frank Spiering](http://2017.hack.lu/talks/#bio-frank-spierings-1), [Arthur Donkers](http://2017.hack.lu/talks/#bio-arthur-donkers))) *ca. 6 h*|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
-| 18:00 |end of workshop|  ||
+| 19:15 |end of workshop|  ||
 
 {: class="table"}
 
@@ -107,13 +106,12 @@ Wednesday 18 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 09:00 | | |
-| 09:30 |  *ca. 2 h*||
+| 08:45 | [ManaTI: Web Assistance for the Threat Analyst, supported by Domain Similarity](http://2017.hack.lu/talks/#manatihttpsgithubcomstratosphereipsmanati-web-assistance-for-the-threat-analyst-supported-by-domain-similarity-talk-and-workshop) ([Raúl B. Netto](http://2017.hack.lu/talks/#bio-ral-bentez-netto---honeyjackhttpsgithubcomhoneyjack)) *ca. 2 h*|[Malware Triage Workshop - Malscripts Are The New Exploit Kit](http://2017.hack.lu/talks/#malware-triage-workshop---malscripts-are-the-new-exploit-kit) ([Sean Wilson](http://2017.hack.lu/talks/#bio-sean-wilson), [Sergei Frankoff](http://2017.hack.lu/talks/#bio-sergei-frankoff)) *ca. 3 h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 |<!--- static -->||
+| 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4 h*||
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 18:00 |end of workshop|  ||     |                        |           |
@@ -125,8 +123,7 @@ Thursday 19 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 09:00 | | |
-| 09:30 |  *ca. 2 h*||
+| 08:45 | [SAP Pentest - From outside to company salaries tampering](http://2017.hack.lu/talks/#sap-pentest---from-outside-to-company-salaries-tampering) ([Yvan Genuer](http://2017.hack.lu/talks/#bio-yvan-genuer)) *ca. 3 h*|[Python and Machine Learning](http://2017.hack.lu/talks/#python-and-machine-learning) ([](http://2017.hack.lu/talks/#bio-sbastien-larinier---sebdravenhttpstwittercomsebdraven)) *ca. 3 h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
