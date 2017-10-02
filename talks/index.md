@@ -972,6 +972,37 @@ and trainer at various security conferences including BH USA 2016, DEF CON 24, B
 HackInParis, HITB Amsterdam, NullCon, GroundZero, c0c0n, XorConf, and more. He is an active
 contributor to many open-source projects and some of his work is available at https://github.com/antojoseph
 
+Vulnerability Disclosure, Governments and You
+---------------------------------------------
+by Jeroen van der Ham
+
+Vulnerability Disclosure has earned its place in security. The trend of full disclosure died in the 90s as
+realisation set in that writing software really is complex, and not all vendors are at fault for having errors in code.
+
+In the 21st century vulnerability disclosure has become more and more acceptable. This can be seen by the rise in
+companies that help with vulnerability disclosure, and the large companies that have paid programs, so called bug
+bounties. More and more governments are showing an interest in making this possible.
+
+Vulnerability disclosure and incident response has become a recognised practice also in policy making. At the EU
+level it has hugely influenced debates about GDPR and the NIS directive. It has also been affected by high-level
+policy discussions regarding export control and dual-use goods in the international Wassenaar Arrangement.
+
+Policy-making has become a factor in the world of security and incident response. Join me in the discussion on how we can start moving this forward.
+
+
+Bio: Jeroen van der Ham
+-----------------------
+
+Jeroen van der Ham is a security researcher at the NCSC-NL since 2015. In his current research he
+focuses on privacy and security, as well as ethics in security research. He has published on ethical
+analyses of research and education, network monitoring, and semantic descriptions of computer networks and
+associated infrastructures. He currently holds positions at the TU Delft as well as the University of Amsterdam,
+where he serves as ethics advisor.
+
+Jeroen received his Ph.D. degree from the University of Amsterdam in 2010 for his thesis entitled "A Complex
+Model for Computer Networks, the Network Description Language", after which he worked as a researcher at the University of Amsterdam until 2015.
+
+
 Workshops
 =========
 
