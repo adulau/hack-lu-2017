@@ -450,7 +450,7 @@ Device sensors meet the web - a story of sadness and regret
 -----------------------------------------------------------
 by Lukasz Olejnik
 
-<!-- talk the 17th -->
+<!-- talk the 17th, 40 min -->
 
 The web is becoming increasingly rich in features as more powerful APIs are introduced and
 implemented by browsers. Among the new features are communication channels such as Web
@@ -947,6 +947,61 @@ worked on fraud and abuse related solutions at Facebook and PayPal. He is the co
 number of research papers and book chapters and his work has been presented at USENIX HotSec,
 NDSS USEC, APWG eCrime and RSA. He holds a MS in Computer Science from UC San Diego.
 
+Bug hunting using symbolic virtual machines!
+--------------------------------------------
+by Anto Joseph
+
+<!-- 17th or 18th -->
+
+In this talk , we introduce the participants to the world of symbolic execution. It's uses in
+reverse engineering, fuzzing or vulnerability discovery is less known in the infosec community.
+We try to impart the basics to get up and running with the KLEE symbolic virtual machine and
+solve some interesting challenges. Software Vulnerabilities like memory corruptions, certain
+logical bugs, complex arithmetic used for obfuscation etc could be easily solved using
+symbolic execution. Symbolic execution is well discussed in academic papers, but it is not widely
+used by security researchers. It has been proved with tools like angr that they are remarkable
+in detecting vulnerabilities.
+
+Bio: Anto Joseph
+----------------
+
+Anto Joseph is a Security Engineer at Intel. He has 4 years of corporate experience in developing
+and advocating security in Mobile and Web Platforms. Machine Learning is one of his key areas of
+Interest. He is very passionate about exploring new ideas in these areas and has been a presenter
+and trainer at various security conferences including BH USA 2016, DEF CON 24, BruCon,
+HackInParis, HITB Amsterdam, NullCon, GroundZero, c0c0n, XorConf, and more. He is an active
+contributor to many open-source projects and some of his work is available at https://github.com/antojoseph
+
+Vulnerability Disclosure, Governments and You
+---------------------------------------------
+by Jeroen van der Ham
+
+Vulnerability Disclosure has earned its place in security. The trend of full disclosure died in the 90s as
+realisation set in that writing software really is complex, and not all vendors are at fault for having errors in code.
+
+In the 21st century vulnerability disclosure has become more and more acceptable. This can be seen by the rise in
+companies that help with vulnerability disclosure, and the large companies that have paid programs, so called bug
+bounties. More and more governments are showing an interest in making this possible.
+
+Vulnerability disclosure and incident response has become a recognised practice also in policy making. At the EU
+level it has hugely influenced debates about GDPR and the NIS directive. It has also been affected by high-level
+policy discussions regarding export control and dual-use goods in the international Wassenaar Arrangement.
+
+Policy-making has become a factor in the world of security and incident response. Join me in the discussion on how we can start moving this forward.
+
+
+Bio: Jeroen van der Ham
+-----------------------
+
+Jeroen van der Ham is a security researcher at the NCSC-NL since 2015. In his current research he
+focuses on privacy and security, as well as ethics in security research. He has published on ethical
+analyses of research and education, network monitoring, and semantic descriptions of computer networks and
+associated infrastructures. He currently holds positions at the TU Delft as well as the University of Amsterdam,
+where he serves as ethics advisor.
+
+Jeroen received his Ph.D. degree from the University of Amsterdam in 2010 for his thesis entitled "A Complex
+Model for Computer Networks, the Network Description Language", after which he worked as a researcher at the University of Amsterdam until 2015.
+
 
 Workshops
 =========
@@ -1249,3 +1304,63 @@ early compromission detection, forensic and incident response. Python
 addict he supports different opensource projects like FastIR, veri-sig,
 Oletools, pymisp, malcom…,
 
+Breaking Apps with Frida
+------------------------
+by Jahmel Harris
+
+Frida well know by mobile application testers as a way to bypass security controls such as root
+detection or SSL pinning. At its core, frida is a framework for injecting JavaScript into running
+applications that makes things significantly easier when it comes to reverse engineering and modifying binaries.
+
+This 2 hour workshop will go though using Frida on Linux and Android and though exercises and
+walkthroughs show how Frida can be used to rapidly reverse engineer applications to understand
+logic flow, dump secrets and bypass security controls.
+
+Although what we look at here is relevant to mobile applications, this is not a mobile hacking
+workshop (in fact, most exercises will take place on Linux binaries) but might be useful to
+mobile testers looking to take their security testing to the next level.
+
+
+Bio: Jahmel Harris
+------------------
+
+Jahmel is a security researcher and hacker. He co-founded Digital Interruption this year; a
+security testing consultancy which also works with organisations to development tools,
+techniques and methodologies to integrate security into agile development teams. With a
+background in not only security testing but software development, Jahmel is able to advise
+engineers on balancing security with functionality.
+
+Jahmel has a particular interest in mobile application security, reverse engineering and
+radio and has presented talks and workshops at home in the UK and abroad. He also runs
+Manchester Grey Hats - a group aiming to bring hackers together to share knowledge and skills.
+
+Programming Wireshark With Lua
+------------------------------
+by Didier Stevens
+
+In this 2 hour workshop, you will learn how to program Wireshark with the
+Lua programming language.
+
+Wireshark can be extended using the C and Lua programming languages. In
+this workshop, we will look into Lua taps and dissectors to help you
+analyze traffic that "pure" Wireshark does not understand. Wireshark
+dissectors are often designed to analyze a network protocol.
+You will learn how to install Lua dissectors and program your own.
+Say you are reversing a botnet, then you can develop your own dissector
+that analyses the custom network protocol that the botnet uses to
+communicate between the C&C and the clients. But custom dissectors can help
+you even with known network protocols. For example, Didier will teach you
+the inner workings of a simple custom dissector he developed in Lua to
+display TCP flags like Snort (this was later introduced as a permanent
+feature in Wireshark).
+
+Attendees of the workshop should bring a laptop with Wireshark installed
+and have administrative rights.
+
+Bio: Didier Stevens
+-------------------
+
+Didier Stevens (Microsoft MVP, SANS ISC Handler, Wireshark Certified
+Network Analyst, ...) is a Senior Analyst working at [NVISO](https://www.nviso.be).
+Didier has given Wireshark 2-day trainings at several security conferences.
+You can find his open source security tools on his [IT security related blog](https://blog.didierstevens.com).
