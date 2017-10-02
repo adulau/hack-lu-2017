@@ -32,6 +32,7 @@ Tuesday 17 October 2017 (Talks)
 | 16:45 | [The Bicho: An Advanced Car Backdoor Maker](http://2017.hack.lu/talks/#the-bicho-an-advanced-car-backdoor-maker) ([Sheila Ayelen Berta](http://2017.hack.lu/talks/#bio-sheila-ayelen-berta---unapibageek)) <!--- static on 17--> |
 | 17:30 | [Keynterceptor: Press any key to continue](http://2017.hack.lu/talks/#keynterceptor-press-any-key-to-continue) ([Niels van Dijkhuizen](http://2017.hack.lu/talks/#bio-niels-van-dijkhuizen))|
 | 18:15 |[Intel AMT: Using & Abusing the Ghost in the Machine](http://2017.hack.lu/talks/#intel-amt-using--abusing-the-ghost-in-the-machine) ([Parth Shukla](http://2017.hack.lu/talks/#bio-parth-shukla)) <!--- static 45+15 --> |
+| 19:15 ||
 {: class="table"}
 
 
@@ -41,20 +42,20 @@ Wednesday 18 October 2017 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 08:45 | Registration open & refreshment |
-| 09:30 | |
+| 09:30 | [A view into ALPC-RPC](http://2017.hack.lu/talks/#a-view-into-alpc-rpc) ([Clement Rouault](http://2017.hack.lu/talks/#bio-clement-rouault), [Thomas Imbert](http://2017.hack.lu/talks/#bio-thomas-imbert)) |
 | 10:15 | Refreshment break|
-| 10:30 | |
+| 10:30 | [How I’ve Broken Every Threat Intel Platform I’ve Ever Had (And Settled on MISP)](http://2017.hack.lu/talks/#how-ive-broken-every-threat-intel-platform-ive-ever-had-and-settled-on-misp) ([John Bambenek](http://2017.hack.lu/talks/#bio-john-bambenek))|
 | 11:15 | [Keynote: Infosec and failure](http://2017.hack.lu/talks/#infosec-and-failure) ([杏👼Ąż](http://2017.hack.lu/talks/#bio-)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 |  |
+| 13:30 | [Sigma - Generic Signatures for Log Events](http://2017.hack.lu/talks/#sigma---generic-signatures-for-log-events) ([Thomas Patzke](http://2017.hack.lu/talks/#bio-thomas-patzke)) |
 | 14:15 |  <!--- static: day -->|
 | 15:00 ||
 | 15:45 | Refreshment break |
 | 16:00 ||
 | 16:45 |<!--- static --> |
 | 17:30 ||
-| 18:15 |<!--- static --> |
+| 18:15 |[Hospitals and infosec (the consequences of bad security in health care)](http://2017.hack.lu/talks/#hospitals-and-infosec-the-consequences-of-bad-security-in-health-care) ([Jelena Milosevic](http://2017.hack.lu/talks/#bio-jelena-milosevic))<!--- static 60 minutes--> |
 {: class="table"}
 
 Thursday 19 October 2017 (Talks)
