@@ -76,7 +76,7 @@ Thursday 19 October 2017 (Talks)
 | 15:45 | Refreshment break |
 | 16:00 | [Bug hunting using symbolic virtual machines!](http://2017.hack.lu/talks/#) ([Anto Joseph](http://2017.hack.lu/talks/#)) |
 | 16:45 | [Vulnerability Disclosure, Governments and You](http://2017.hack.lu/talks/#) ([Jeroen van der Ham](http://2017.hack.lu/talks/#)) |
-| 17:30 | []() ([]()) |
+| 17:30 | [TIDS: A Framework for Detecting Threats in Telecom Networks](http://2017.hack.lu/talks/#) ([Alexandre De Oliveira](http://2017.hack.lu/talks/#), [Cu D. Nguyen]()) |
 | 18:15 |[Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network](http://2017.hack.lu/talks/#network-automation-is-not-your-safe-haven-protocol-analysis-and-vulnerabilities-of-autonomic-network) ([Omar Eissa](http://2017.hack.lu/talks/#bio-omar-eissa))<!--- static 45+15--> |
 {: class="table"}
 
