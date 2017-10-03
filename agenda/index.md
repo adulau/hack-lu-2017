@@ -74,9 +74,9 @@ Thursday 19 October 2017 (Talks)
 | 14:15 |[Let’s Play with WinDBG & .NET](http://2017.hack.lu/talks/#lets-play-with-windbg--net) ([Paul Rascagneres](http://2017.hack.lu/talks/#bio-paul-rascagneres)) |
 | 15:00 |[Are your VoLTE and VoWiFi calls secure?](http://2017.hack.lu/talks/#are-your-volte-and-vowifi-calls-secure) ([Sreepriya Chalakkal](http://2017.hack.lu/talks/#bio-sreepriya-chalakkal))|
 | 15:45 | Refreshment break |
-| 16:00 | [Bug hunting using symbolic virtual machines!](http://2017.hack.lu/talks/#) ([Anto Joseph](http://2017.hack.lu/talks/#)) |
-| 16:45 | [Vulnerability Disclosure, Governments and You](http://2017.hack.lu/talks/#) ([Jeroen van der Ham](http://2017.hack.lu/talks/#)) |
-| 17:30 | [TIDS: A Framework for Detecting Threats in Telecom Networks](http://2017.hack.lu/talks/#) ([Alexandre De Oliveira](http://2017.hack.lu/talks/#), [Cu D. Nguyen]()) |
+| 16:00 | [Bug hunting using symbolic virtual machines!](http://2017.hack.lu/talks/#bug-hunting-using-symbolic-virtual-machines) ([Anto Joseph](http://2017.hack.lu/talks/#bio-anto-joseph)) |
+| 16:45 | [Vulnerability Disclosure, Governments and You](http://2017.hack.lu/talks/#vulnerability-disclosure-governments-and-you) ([Jeroen van der Ham](http://2017.hack.lu/talks/#bio-jeroen-van-der-ham)) |
+| 17:30 | [TIDS: A Framework for Detecting Threats in Telecom Networks](http://2017.hack.lu/talks/#tids-a-framework-for-detecting-threats-in-telecom-networks) ([Alexandre De Oliveira](http://2017.hack.lu/talks/#bio-alexandre-de-oliveira), [Cu D. Nguyen](http://2017.hack.lu/talks/#bio-cu-d-nguyen)) |
 | 18:15 |[Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network](http://2017.hack.lu/talks/#network-automation-is-not-your-safe-haven-protocol-analysis-and-vulnerabilities-of-autonomic-network) ([Omar Eissa](http://2017.hack.lu/talks/#bio-omar-eissa))<!--- static 45+15--> |
 {: class="table"}
 
@@ -88,12 +88,11 @@ Tuesday 17 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 09:30 |  *ca. 2 h*||
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 | [Reverse Engineering  a (M)MORPG](http://2017.hack.lu/talks/#reverse-engineering--a-mmorpg) ([](http://2017.hack.lu/talks/#bio-antonin-beaujeant---beaujeant)) *ca. 6 h* <!--- static duration-->|[Mobile Security workshop](http://2017.hack.lu/talks/#mobile-security-workshop) ([Frank Spiering](http://2017.hack.lu/talks/#bio-frank-spierings-1), [Arthur Donkers](http://2017.hack.lu/talks/#bio-arthur-donkers))) *ca. 6 h*|
+| 13:30 | [Reverse Engineering  a (M)MORPG](http://2017.hack.lu/talks/#reverse-engineering--a-mmorpg) ([Antonin Beaujeant](http://2017.hack.lu/talks/#bio-antonin-beaujeant---beaujeant)) *ca. 6h* <!--- static duration-->|[Mobile Security workshop](http://2017.hack.lu/talks/#mobile-security-workshop) ([Frank Spiering](http://2017.hack.lu/talks/#bio-frank-spierings-1), [Arthur Donkers](http://2017.hack.lu/talks/#bio-arthur-donkers))) *ca. 6h*|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 19:15 |end of workshop|  ||
@@ -106,12 +105,12 @@ Wednesday 18 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 08:45 | [ManaTI: Web Assistance for the Threat Analyst, supported by Domain Similarity](http://2017.hack.lu/talks/#manatihttpsgithubcomstratosphereipsmanati-web-assistance-for-the-threat-analyst-supported-by-domain-similarity-talk-and-workshop) ([Raúl B. Netto](http://2017.hack.lu/talks/#bio-ral-bentez-netto---honeyjackhttpsgithubcomhoneyjack)) *ca. 2 h*|[Malware Triage Workshop - Malscripts Are The New Exploit Kit](http://2017.hack.lu/talks/#malware-triage-workshop---malscripts-are-the-new-exploit-kit) ([Sean Wilson](http://2017.hack.lu/talks/#bio-sean-wilson), [Sergei Frankoff](http://2017.hack.lu/talks/#bio-sergei-frankoff)) *ca. 3 h*|
+| 08:45 | [ManaTI: Web Assistance for the Threat Analyst, supported by Domain Similarity](http://2017.hack.lu/talks/#manatihttpsgithubcomstratosphereipsmanati-web-assistance-for-the-threat-analyst-supported-by-domain-similarity-talk-and-workshop) ([Raúl B. Netto](http://2017.hack.lu/talks/#bio-ral-bentez-netto---honeyjackhttpsgithubcomhoneyjack)) *ca. 2h*|[Malware Triage Workshop - Malscripts Are The New Exploit Kit](http://2017.hack.lu/talks/#malware-triage-workshop---malscripts-are-the-new-exploit-kit) ([Sean Wilson](http://2017.hack.lu/talks/#bio-sean-wilson), [Sergei Frankoff](http://2017.hack.lu/talks/#bio-sergei-frankoff)) *ca. 3h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4 h*||
+| 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4h*||
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 18:00 |end of workshop|  ||     |                        |           |
@@ -123,7 +122,7 @@ Thursday 19 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 08:45 | [SAP Pentest - From outside to company salaries tampering](http://2017.hack.lu/talks/#sap-pentest---from-outside-to-company-salaries-tampering) ([Yvan Genuer](http://2017.hack.lu/talks/#bio-yvan-genuer)) *ca. 3 h*|[Python and Machine Learning](http://2017.hack.lu/talks/#python-and-machine-learning) ([](http://2017.hack.lu/talks/#bio-sbastien-larinier---sebdravenhttpstwittercomsebdraven)) *ca. 3 h*|
+| 08:45 | [SAP Pentest - From outside to company salaries tampering](http://2017.hack.lu/talks/#sap-pentest---from-outside-to-company-salaries-tampering) ([Yvan Genuer](http://2017.hack.lu/talks/#bio-yvan-genuer)) *ca. 3h*|[Python and Machine Learning](http://2017.hack.lu/talks/#python-and-machine-learning) ([Sébastien Larinier](http://2017.hack.lu/talks/#bio-sbastien-larinier---sebdravenhttpstwittercomsebdraven)) *ca. 3h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
