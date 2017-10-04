@@ -65,19 +65,20 @@ Thursday 19 October 2017 (Talks)
 |:----:|:------------------:|
 | 08:45 | [Automation Attacks at Scale](http://2017.hack.lu/talks/#automation-attacks-at-scale) ([Will Glazier](http://2017.hack.lu/talks/#bio-will-glazier), [Mayank Dhiman](http://2017.hack.lu/talks/#bio-mayank-dhiman)) |
 | 09:30 | [Front door Nightmares. When smart is not secure](http://2017.hack.lu/talks/#front-door-nightmares-when-smart-is-not-secure) ([ObiWan666](http://2017.hack.lu/talks/#bio-obiwan666---obiwan666))|
-| 10:15 | Refreshment break|
+| 10:15 | Refreshment break - shred it for free*|
 | 10:30 | [What is the max Reflected Distributed Denial of Service (rDDoS) potential of IPv4?](http://2017.hack.lu/talks/#what-is-the-max-reflected-distributed-denial-of-service-rddos-potential-of-ipv4) ([Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett-1), [Aaron Kaplan](http://2017.hack.lu/talks/#bio-aaron-kaplan)) |
 | 11:15 | [Keynote: Information Flows and Leaks in Social Media](http://2017.hack.lu/talks/#information-flows-and-leaks-in-social-media) ([Vladimir Kropotov](http://2017.hack.lu/talks/#bio-vladimir-kropotov), [Fyodor Yarochkin](http://2017.hack.lu/talks/bio-fyodor-yarochkin)) |
-| 12:00 | Lunch |
+| 12:00 | Lunch - shred it for free*|
 | 13:00 | [Lightning talks + CTF contest awards](http://piratepad.net/2stuvx5AYt)|
 | 13:30 |[On Strategy](http://2017.hack.lu/talks/#on-strategy) ([Eleanor Saitta](http://2017.hack.lu/talks/#bio-eleanor-saitta---dymaxion))|
 | 14:15 |[Let’s Play with WinDBG & .NET](http://2017.hack.lu/talks/#lets-play-with-windbg--net) ([Paul Rascagneres](http://2017.hack.lu/talks/#bio-paul-rascagneres)) |
 | 15:00 |[Are your VoLTE and VoWiFi calls secure?](http://2017.hack.lu/talks/#are-your-volte-and-vowifi-calls-secure) ([Sreepriya Chalakkal](http://2017.hack.lu/talks/#bio-sreepriya-chalakkal))|
-| 15:45 | Refreshment break |
+| 15:45 | Refreshment break - shred it for free*|
 | 16:00 | [Bug hunting using symbolic virtual machines!](http://2017.hack.lu/talks/#bug-hunting-using-symbolic-virtual-machines) ([Anto Joseph](http://2017.hack.lu/talks/#bio-anto-joseph)) |
 | 16:45 | [Vulnerability Disclosure, Governments and You](http://2017.hack.lu/talks/#vulnerability-disclosure-governments-and-you) ([Jeroen van der Ham](http://2017.hack.lu/talks/#bio-jeroen-van-der-ham)) |
 | 17:30 | [TIDS: A Framework for Detecting Threats in Telecom Networks](http://2017.hack.lu/talks/#tids-a-framework-for-detecting-threats-in-telecom-networks) ([Alexandre De Oliveira](http://2017.hack.lu/talks/#bio-alexandre-de-oliveira), [Cu D. Nguyen](http://2017.hack.lu/talks/#bio-cu-d-nguyen)) |
 | 18:15 |[Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network](http://2017.hack.lu/talks/#network-automation-is-not-your-safe-haven-protocol-analysis-and-vulnerabilities-of-autonomic-network) ([Omar Eissa](http://2017.hack.lu/talks/#bio-omar-eissa))<!--- static 45+15--> |
+| All day |* [Hardware shredder will be available outside on a truck. There will be shred it for free slots during break times and on demand. Bring your old HDD, CDs, Smart Phones, SD cards, SIM cards, Diskettes, floppy disks etc and shred it fr free.](https://www.youtube.com/watch?v=9mxL5lA-jx8) |
 {: class="table"}
 
 Workshop Agenda
