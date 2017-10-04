@@ -1043,6 +1043,159 @@ Trento, Italy in 2009. Before joining POST Luxembourg as a Data Scientist and Se
 worked as a researcher at the University of Luxembourg and has published 50+ scientific papers to
 prestigious international conferences and journals.
 
+Myths and realities of attribution manipulation
+-----------------------------------------------
+by Félix Aimé & Ronan Mouchoux
+
+Who is attacking us? The cyber security companies and media have identified
+France, US, Russia, China, Iran or North Korea as responsible of cyber
+attacks. However, this work stay complex to achieve without having access
+to human intelligence (HUMINT), signal intelligence (SIGINT) or computer
+network exploitation (CNE). When technical details of an APT group and
+their TTPs are published on the Internet, it may be possible to create a
+copycat of the modus operandi to deceive defenders and victims. After
+presenting the difference between each notion (Attribution, copycat, False
+flag etc.) with real-life examples, this presentation will show that
+creating a real and working copycat is more complex than just “repackaging
+malwares”. Then we will explain more precisely why most of the wild use of
+copycats is more about using what is working than a real objectives for the
+attackers. The presentation will conclude with a reflexion to the future of
+attribution and identification of malicious actors, while covering the
+myths and realities of the use of deception on real Life.
+
+Bio: Félix Aimé
+---------------
+
+Félix starts its career as a cybercrime analyst, identifiying emergent
+threat and conductiong investigation. He then becomes a pentester for some
+time, but quickly come back to investigation activities, as a Threat
+Intelligence analyst for the ANSSI (French Government CERT). During four
+years he tracked APT related actors, developped complex heuristic to follow
+campaign and provide geopolitical insight to authorities to better
+understand underlying motivation of state-sponsored groups. He joined the
+Global REsearch and Analysis Team (GREAT) of Kaspersky in 2017 to enforce
+their Threat Intelligence capabilities.
+
+Bio: Ronan Mouchoux
+-------------------
+
+Ronan has been a NOC then a SOC analyst, allowing him to developped its
+skills in network computer and to developped its corporate IT skills. He
+then joined CERT La Poste where he conducted for three years research over
+botnet command and control, corporate network filtering evasion and
+investigation automation. He then moves to investigation activities for
+severals privates companies, creating or developping internal Cyber Threat
+Intelligence capabilities. He joined the Global REsearch and Analysis Team
+(GREAT) of Kaspersky in 2017 to enforce their Threat Intelligence
+capabilities.
+
+Hiding in Plain Sight: Qadars, a Notoriously Sophisticated Crimeware Trojan
+---------------------------------------------------------------------------
+by Raashid Bhat
+
+Qadars appeared in late 2012 and since then has stayed away from the
+spotlight , but it has been hiding in plain sight since then
+
+Most banking trojans are profiled as aggressive in distribution, visibility
+and attack patterns. Qadars is a stealthy banking trojan that breaks with
+tradition.  Although quite active in the past few years, we rarely detect
+Qadars due to its successful evasion tactics.
+
+In this presentation, we will explore how Qadars utilizes deception
+techniques to stay hidden and out of analysts’ reach, with multiple layers
+of attack surfaces and communication endpoints. We will also discuss the
+infection vectors and social engineering tricks the criminals employ to
+bait users. We will dig deeper into the techniques by showing how It
+utilizes c2 domains just as the first point of contact, and eventually has
+dynamic and onion network based control servers. It utilizes privilege
+escalation exploits retrieved dynamically from c2 based on the operating
+system running to escalate privileges.
+
+Qadars has a complex coded base which is not based on any previously leaked
+trojans . Qadars also supports the use of additional modules, increasing
+its versatility and the threat it poses once it has infected a host. The
+analysis of Qadars uncovered a complex infrastructure with infections are
+proxifying connections to master command and control server .
+We will go on to explain how Qadars utilizes privilege escalation exploits
+which are retrieved dynamically from c2 based on the operating system
+running to escalate privileges. But that’s not the end of the story.
+Criminals behind Qadars make sure that they perform further reconnaissance
+with their infections to look for a gold mine.
+
+From attacking poker player to POS systems, it does not leave any chance to
+leave any money behind. Even the idle infections are utilized by
+orchestrating them into c2 proxy slaves. Internet gateways of these
+infections are modified using UPNP and using a special plugin these
+infections are turned into c2 proxies which form a chain with other c2
+proxies towards the master c2.
+
+Session attendees will gain a clear understanding of how Qadars is a
+uniquely dangerous banking trojan, the infection vectors and social
+engineering tricks deployed by the criminals that make it successful, and
+how one can better prepare for banking trojan attacks.
+
+Bio: Raashid Bhat
+-----------------
+
+TODO
+
+The Struggle: dealing with language designers & maintainers on proper use of CSPRNGs
+------------------------------------------------------------------------------------
+by Aaron Zauner
+
+Implementation, hazards and updates on use of CSPRNGs in programming languages and the Linux
+Kernel (among others):
+
+Over the past two years multiple people have been engaging language
+maintainers and designers to change their use of CSPRNGs (mainly relying on user-land RNGs
+like the one from OpenSSL, and sometimes suggesting "adding entropy" by various means from
+user-land daemons like haveged). In this short presentation we'll survey the struggle of
+cryptographers, developers and security engineers to change the path various high-profile
+languages have taken to provide randomness to their userbase. Affected languages include
+but are not limited to: Ruby, node.js and Erlang. We outline better approaches for language
+maintainers and implementers as well as coming changes within the Linux kernel crypto
+subsystem (i.e. /dev/random and /dev/urandom) w.r.t. security and performance. Recently
+these changes were merged into mainline Linux (4), problems with languages implementations
+however remain. We'll also discuss operating system provided randomness testing, attacks/mitigation
+in embedded and virtualized environments.
+
+
+Bio: Aaron Zauner
+-----------------
+
+TODO
+
+The untold stories of Hackers in Detention
+------------------------------------------
+by Aaron & JKT
+
+Bacause Phrack `Volume 0x0e, Issue 0x43, Phile #0x05 of 0x10` isn't what you should expect:
+
+Two hackers tell their stories about life in pre-trial detention, courtyard talk and everything
+that's wrong about the public's perception of incarceration. Prison changes people, not for the
+better - these Hackers made the best of their seemingly endless time in prison; hence
+have quite a few facts to get right and stories to tell.
+
+The speakers share a combined total of 634 days of kafkaesque remand imprisonment experience
+in two different European countries (Denmark & Germany).
+
+* JKT {{ 512 days pre-trail detention }}: detained on 5th of June 2013 for allegedly being involved
+  in Mainframe hacking (actually for talking to someone who unsuccessfully attempted logging onto an FTP server)
+* Aaron [azet] {{ 122 days pre-trail detention }}: detained on 9th of July 2016 for allegedly
+  assaulting police officers, breach of the peace, [et cetera] during a demonstration against the
+  illegal eviction of one of the oldest Squats in Berlin/Friedrichshain (Rigaer94)
+
+Bio: Aaron
+----------
+
+TODO
+
+Bio: JKT
+--------
+
+TODO
+
+
 
 Workshops
 =========
