@@ -1163,7 +1163,18 @@ in embedded and virtualized environments.
 Bio: Aaron Zauner
 -----------------
 
-TODO
+Aaron Zauner (azet) 10+ years of engineering. Has seen the fallacies of distributed computing.
+Still enjoys working and researching in the industry. Loves tuning, scaling
+and securing of distributed systems - building on and contributing to great
+Free & Open Source Software. Above all: getting to meet brilliant people,
+exchange ideas and work on exciting projects all the time! I am
+self-employed and primarily do engineering work, consulting and research on
+IT Infrastructure Architecture, Operations & Development, Applied
+Cryptography, High Performance Computing and Information Security. I've
+held talks on DevOps, HPC and Security related topics at various venues -
+from local meetups to internationally recognized conferences.
+
+[Publications](https://scholar.google.com/citations?user=pMyYN5wAAAAJ)
 
 The untold stories of Hackers in Detention
 ------------------------------------------
@@ -1179,21 +1190,20 @@ have quite a few facts to get right and stories to tell.
 The speakers share a combined total of 634 days of kafkaesque remand imprisonment experience
 in two different European countries (Denmark & Germany).
 
-* JKT {{ 512 days pre-trail detention }}: detained on 5th of June 2013 for allegedly being involved
-  in Mainframe hacking (actually for talking to someone who unsuccessfully attempted logging onto an FTP server)
-* Aaron [azet] {{ 122 days pre-trail detention }}: detained on 9th of July 2016 for allegedly
-  assaulting police officers, breach of the peace, [et cetera] during a demonstration against the
-  illegal eviction of one of the oldest Squats in Berlin/Friedrichshain (Rigaer94)
 
-Bio: Aaron
-----------
+Bio: azet
+---------
 
-TODO
+azet (122 days pre-trail detention): detained on 9th of July 2016 for allegedly
+assaulting police officers, breach of the peace, [et cetera] during a demonstration against the
+illegal eviction of one of the oldest Squats in Berlin/Friedrichshain (Rigaer94)
+
 
 Bio: JKT
 --------
 
-TODO
+JKT (512 days pre-trail detention): detained on 5th of June 2013 for allegedly being involved
+in Mainframe hacking (actually for talking to someone who unsuccessfully attempted logging onto an FTP server)
 
 
 
