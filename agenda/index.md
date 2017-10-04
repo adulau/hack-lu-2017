@@ -40,24 +40,24 @@ Wednesday 18 October 2017 (Talks)
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| All day |* [Hardware shredder will be available outside on a truck. There will be shred it for free slots during break times and on demand. Bring your old HDD, CDs, Smart Phones, SD cards, SIM cards, Diskettes, floppy disks etc and shred it fr free. Please check the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8) |
+| All day |* [Hardware shredder will be available outside on a truck. There will be shred it for free slots during break times and on demand. Bring your old HDD, CDs, Smart Phones, SD cards, SIM cards, Diskettes, floppy disks etc and shred it fr free. Please check the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="_blank"} |
 | 08:45 | [Keynterceptor: Press any key to continue](http://2017.hack.lu/talks/#keynterceptor-press-any-key-to-continue) ([Niels van Dijkhuizen](http://2017.hack.lu/talks/#bio-niels-van-dijkhuizen)) |
 | 09:30 | [A view into ALPC-RPC](http://2017.hack.lu/talks/#a-view-into-alpc-rpc) ([Clement Rouault](http://2017.hack.lu/talks/#bio-clement-rouault), [Thomas Imbert](http://2017.hack.lu/talks/#bio-thomas-imbert)) |
-| 10:15 | Refreshment break - [shred it for free*](https://www.youtube.com/watch?v=9mxL5lA-jx8)|
+| 10:15 | Refreshment break - [shred it for free*](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="_blank"} |
 | 10:30 | [How I’ve Broken Every Threat Intel Platform I’ve Ever Had (And Settled on MISP)](http://2017.hack.lu/talks/#how-ive-broken-every-threat-intel-platform-ive-ever-had-and-settled-on-misp) ([John Bambenek](http://2017.hack.lu/talks/#bio-john-bambenek))|
 | 11:15 | [Keynote: Infosec and failure](http://2017.hack.lu/talks/#infosec-and-failure) ([杏👼Ąż](http://2017.hack.lu/talks/#bio-)) |
-| 12:00 | Lunch - [shred it for free*](https://www.youtube.com/watch?v=9mxL5lA-jx8)|
+| 12:00 | Lunch - [shred it for free*](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="_blank"} |
 | 13:00 | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
 | 13:30 | [Sigma - Generic Signatures for Log Events](http://2017.hack.lu/talks/#sigma---generic-signatures-for-log-events) ([Thomas Patzke](http://2017.hack.lu/talks/#bio-thomas-patzke)) |
 | 14:15 | [SMT Solvers in the IT Security - deobfuscating binary code with logic](http://2017.hack.lu/talks/#smt-solvers-in-the-it-security---deobfuscating-binary-code-with-logic) ([Thaís Moreira Hamasaki](http://2017.hack.lu/talks/#bio-thas-moreira-hamasaki---barbieauglend)) <!--- static: not Thursday -->|
 | 15:00 | [Hacking the Warrant: A workshop on LEA CNE](http://2017.hack.lu/talks/#hacking-the-warrant-a-workshop-on-lea-cne) ([Scarlet Kim](http://2017.hack.lu/talks/#bio-scarlet-kim), [Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett))|
-| 15:45 | Refreshment break - [shred it for free*](https://www.youtube.com/watch?v=9mxL5lA-jx8)|
+| 15:45 | Refreshment break - [shred it for free*](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="_blank"} |
 | 16:00 |[API design for cryptography](http://2017.hack.lu/talks/#api-design-for-cryptography) ([Frank Denis](http://2017.hack.lu/talks/#bio-frank-denis))|
 | 16:45 |[WTFrance ?! Cryptography and legislation in France](http://2017.hack.lu/talks/#wtfrance--cryptography-and-legislation-in-france) ([Okhin](http://2017.hack.lu/talks/#bio-okhin)) |
 | 17:30 |[In Soviet Russia, Vulnerability Finds You](http://2017.hack.lu/talks/#in-soviet-russia-vulnerability-finds-you) ([Inbar Raz](http://2017.hack.lu/talks/#bio-inbar-raz))|
 | 18:15 |[Hospitals and infosec (the consequences of bad security in health care)](http://2017.hack.lu/talks/#hospitals-and-infosec-the-consequences-of-bad-security-in-health-care) ([Jelena Milosevic](http://2017.hack.lu/talks/#bio-jelena-milosevic))<!--- static 60 minutes--> |
 | 19:15 ||
-| All day |* [Hardware shredder will be available outside on a truck. There will be shred it for free slots during break times and on demand. Bring your old HDD, CDs, Smart Phones, SD cards, SIM cards, Diskettes, floppy disks etc and shred it fr free. Please check the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8) |
+| All day |* [Hardware shredder will be available outside on a truck. There will be shred it for free slots during break times and on demand. Bring your old HDD, CDs, Smart Phones, SD cards, SIM cards, Diskettes, floppy disks etc and shred it fr free. Please check the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="_blank"} |
 {: class="table"}
 
 Thursday 19 October 2017 (Talks)
