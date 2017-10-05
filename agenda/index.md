@@ -111,7 +111,7 @@ Wednesday 18 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 08:45 | [ManaTI: Web Assistance for the Threat Analyst, supported by Domain Similarity](http://2017.hack.lu/talks/#manatihttpsgithubcomstratosphereipsmanati-web-assistance-for-the-threat-analyst-supported-by-domain-similarity-talk-and-workshop) ([Raúl B. Netto](http://2017.hack.lu/talks/#bio-ral-bentez-netto---honeyjackhttpsgithubcomhoneyjack)) *ca. 2h*|[Malware Triage Workshop - Malscripts Are The New Exploit Kit](http://2017.hack.lu/talks/#malware-triage-workshop---malscripts-are-the-new-exploit-kit) ([Sean Wilson](http://2017.hack.lu/talks/#bio-sean-wilson), [Sergei Frankoff](http://2017.hack.lu/talks/#bio-sergei-frankoff)) *ca. 3h*|
+| 08:45 | [SAP Pentest - From outside to company salaries tampering](http://2017.hack.lu/talks/#sap-pentest---from-outside-to-company-salaries-tampering) ([Yvan Genuer](http://2017.hack.lu/talks/#bio-yvan-genuer)) *ca. 3h*|[Python and Machine Learning](http://2017.hack.lu/talks/#python-and-machine-learning) ([Sébastien Larinier](http://2017.hack.lu/talks/#bio-sbastien-larinier---sebdravenhttpstwittercomsebdraven)) *ca. 3h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
@@ -128,7 +128,7 @@ Thursday 19 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 08:45 | [SAP Pentest - From outside to company salaries tampering](http://2017.hack.lu/talks/#sap-pentest---from-outside-to-company-salaries-tampering) ([Yvan Genuer](http://2017.hack.lu/talks/#bio-yvan-genuer)) *ca. 3h*|[Python and Machine Learning](http://2017.hack.lu/talks/#python-and-machine-learning) ([Sébastien Larinier](http://2017.hack.lu/talks/#bio-sbastien-larinier---sebdravenhttpstwittercomsebdraven)) *ca. 3h*|
+| 08:45 | [ManaTI: Web Assistance for the Threat Analyst, supported by Domain Similarity](http://2017.hack.lu/talks/#manatihttpsgithubcomstratosphereipsmanati-web-assistance-for-the-threat-analyst-supported-by-domain-similarity-talk-and-workshop) ([Raúl B. Netto](http://2017.hack.lu/talks/#bio-ral-bentez-netto---honeyjackhttpsgithubcomhoneyjack)) *ca. 2h*|[Malware Triage Workshop - Malscripts Are The New Exploit Kit](http://2017.hack.lu/talks/#malware-triage-workshop---malscripts-are-the-new-exploit-kit) ([Sean Wilson](http://2017.hack.lu/talks/#bio-sean-wilson), [Sergei Frankoff](http://2017.hack.lu/talks/#bio-sergei-frankoff)) *ca. 3h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
