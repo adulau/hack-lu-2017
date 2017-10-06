@@ -129,7 +129,7 @@ Thursday 19 October 2017 (Workshops)
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 | [Dr. Honeypots - How I Learned to Stop Worrying and Know My Enemies (and Worms)](http://2017.hack.lu/talks/) ([Guillaume Arcas](http://2017.hack.lu/talks/))||
+| 13:30 | [Dr. Honeypots - How I Learned to Stop Worrying and Know My Enemies (and Worms)](http://2017.hack.lu/talks/) ([Guillaume Arcas](http://2017.hack.lu/talks/))| [Threat Intel workshop with MISP and The Hive]()|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 18:00 |end of workshop|  ||        |                        |
