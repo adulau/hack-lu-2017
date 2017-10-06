@@ -640,44 +640,6 @@ also leads the groups for Reverse Engineering and x86 Assembly. In her free time
 tools, cooking or climbing somewhere offline.
 
 
-Hacking the Warrant: A workshop on LEA CNE
-------------------------------------------
-by Scarlet Kim & Éireann Leverett
-
-<!-- talk the 18th -->
-
-Hacking by law enforcement is on the rise, in criminal cases. What would an ideal warrant look
-like in such cases? What would it allow, and what would it prevent? Who would oversee it? Could cryptographic
-technologies be employed to limit overuse of exploits? Or to trace the use of them years afterwards? How does
-all this intersect with disclosure debates?
-
-CNE by law enforcement is in use around the world, this workshop proposes to discuss that with some real world
-examples, and write counterfactuals of how they would have worked with different oversight, and judicial review.
-Until every juror is a technologist, hackers will need to contribute to legal processes in order to produce sensible
-educated stakeholders in judicial processes.
-
-Scarlet is a seasoned lawyer, and Eireann is an unreasonable hacker. Together, they seek to bring
-together law enforcement and computer offence and defence teams, to identify how this could all
-work in a multi stakeholder, multi jurisdictional world.
-
-Bio: Scarlet Kim
-----------------
-
-Scarlet Kim is a Legal Officer at Privacy International, a London-based human rights NGO
-focused on issues arising at the intersection of privacy and technology. Scarlet is involved in
-litigating cases concerning government hacking, bulk interception, intelligence sharing, and freedom of
-information in the courts of the U.S., the U.K. and Europe. Scarlet previously worked as an Associate Legal
-Adviser at the International Criminal Court and as a Gruber Fellow in Global Justice at the New York Civil
-Liberties Union. Scarlet received her J.D. from Yale Law School and her B.A. from Yale University. She is a U.S.-qualified
-lawyer and is admitted as a Solicitor in England and Wales.
-
-Bio: Éireann Leverett
----------------------
-
-Éireann Leverett was an Open Web Fellow with Privacy International 2016-2017 and continues to enjoy
-collaborating with talented lawyers working on hacking problems.
-
-
 What is the max Reflected Distributed Denial of Service (rDDoS) potential of IPv4?
 ----------------------------------------------------------------------------------
 by Éireann Leverett & Aaron Kaplan
@@ -1568,3 +1530,60 @@ Didier Stevens (Microsoft MVP, SANS ISC Handler, Wireshark Certified
 Network Analyst, ...) is a Senior Analyst working at [NVISO](https://www.nviso.be).
 Didier has given Wireshark 2-day trainings at several security conferences.
 You can find his open source security tools on his [IT security related blog](https://blog.didierstevens.com).
+
+Hacking the Warrant: A workshop on LEA CNE
+------------------------------------------
+by Scarlet Kim & Éireann Leverett
+
+<!-- talk the 18th -->
+
+Hacking by law enforcement is on the rise, in criminal cases. What would an ideal warrant look
+like in such cases? What would it allow, and what would it prevent? Who would oversee it? Could cryptographic
+technologies be employed to limit overuse of exploits? Or to trace the use of them years afterwards? How does
+all this intersect with disclosure debates?
+
+CNE by law enforcement is in use around the world, this workshop proposes to discuss that with some real world
+examples, and write counterfactuals of how they would have worked with different oversight, and judicial review.
+Until every juror is a technologist, hackers will need to contribute to legal processes in order to produce sensible
+educated stakeholders in judicial processes.
+
+Scarlet is a seasoned lawyer, and Eireann is an unreasonable hacker. Together, they seek to bring
+together law enforcement and computer offence and defence teams, to identify how this could all
+work in a multi stakeholder, multi jurisdictional world.
+
+Bio: Scarlet Kim
+----------------
+
+Scarlet Kim is a Legal Officer at Privacy International, a London-based human rights NGO
+focused on issues arising at the intersection of privacy and technology. Scarlet is involved in
+litigating cases concerning government hacking, bulk interception, intelligence sharing, and freedom of
+information in the courts of the U.S., the U.K. and Europe. Scarlet previously worked as an Associate Legal
+Adviser at the International Criminal Court and as a Gruber Fellow in Global Justice at the New York Civil
+Liberties Union. Scarlet received her J.D. from Yale Law School and her B.A. from Yale University. She is a U.S.-qualified
+lawyer and is admitted as a Solicitor in England and Wales.
+
+Bio: Éireann Leverett
+---------------------
+
+Éireann Leverett was an Open Web Fellow with Privacy International 2016-2017 and continues to enjoy
+collaborating with talented lawyers working on hacking problems.
+
+Dr. Honeypots - How I Learned to Stop Worrying and Know My Enemies (and Worms)
+------------------------------------------------------------------------------
+by Guillaume ARCAS
+
+Nowadays there's a "arm-race" when a new vulnerability is found or exploited between metasploit
+plugins developpers and honeypots coders. WannaCry & NotPetya incidents also showed that
+honeypots are not dead (they only go to github to recode).
+
+This introductory worshop aims to give the attendees the basics on honeypotting deployment
+and pros & cons on this tools.
+
+An install party is not excluded at the end of the workshop.
+
+Note that as the author is member of The Honeynet Project, his visions about how useful honeypots are can be biased.
+
+Bio: Guillaume ARCAS
+--------------------
+
+TODO
