@@ -18,7 +18,7 @@ Tuesday 17 October 2017 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 07:30 | Registration open & refreshment |
-| 08:45 | [Myths and realities of attribution manipulation]() [Félix Aimé]() & [Ronan Mouchoux]()
+| 08:45 | [Myths and realities of attribution manipulation]() ([Félix Aimé](), [Ronan Mouchoux]())
 | 09:30 | [Snuffleupagus - Killing bugclasses in PHP 7, virtual-patching the rest](http://2017.hack.lu/talks/#snuffleupagus---killing-bugclasses-in-php-7-virtual-patching-the-rest) ([Sébastien (blotus) Blot](http://2017.hack.lu/talks/#bio-sbastien-blotus-blot-thibault-buixor-koechlin-julien-jvoisin-voisin), [Thibault (buixor) Koechlin](http://2017.hack.lu/talks/#bio-sbastien-blotus-blot-thibault-buixor-koechlin-julien-jvoisin-voisin), [Julien (jvoisin) Voisin](http://2017.hack.lu/talks/#bio-sbastien-blotus-blot-thibault-buixor-koechlin-julien-jvoisin-voisin)) |
 | 10:15 | Refreshment break|
 | 10:30 | [Randori, a low interaction honeypot with a vengeance](http://2017.hack.lu/talks/#randori-a-low-interaction-honeypot-with-a-vengeance) ([Bouke van Laethem](http://2017.hack.lu/talks/#bio-bouke-van-laethem)) |
@@ -41,26 +41,25 @@ Wednesday 18 October 2017 (Talks)
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| All day | \* [Hardware shredder will be available outside on a truck. There will be shred it for free slots during break times and on demand. Bring your old HDD, CDs, Smart Phones, SD cards, SIM cards, Diskettes, floppy disks etc and shred it fr free. Please check the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
-| 08:00 | [Hiding in Plain Sight: Qadars, a Notoriously Sophisticated Crimeware Trojan]() [Raashid Bhat]()
+| 07:30 | Registration open & refreshment |
+| 08:00 | [Hiding in Plain Sight: Qadars, a Notoriously Sophisticated Crimeware Trojan]() ([Raashid Bhat]())
 | 08:45 | [Keynterceptor: Press any key to continue](http://2017.hack.lu/talks/#keynterceptor-press-any-key-to-continue) ([Niels van Dijkhuizen](http://2017.hack.lu/talks/#bio-niels-van-dijkhuizen)) |
 | 09:30 | [A view into ALPC-RPC](http://2017.hack.lu/talks/#a-view-into-alpc-rpc) ([Clement Rouault](http://2017.hack.lu/talks/#bio-clement-rouault), [Thomas Imbert](http://2017.hack.lu/talks/#bio-thomas-imbert)) |
-| 10:15 | Refreshment break - [shred it for free\*](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
+| 10:15 | Refreshment break - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"}|
 | 10:30 | [How I’ve Broken Every Threat Intel Platform I’ve Ever Had (And Settled on MISP)](http://2017.hack.lu/talks/#how-ive-broken-every-threat-intel-platform-ive-ever-had-and-settled-on-misp) ([John Bambenek](http://2017.hack.lu/talks/#bio-john-bambenek))|
 | 11:15 | [Keynote: Infosec and failure](http://2017.hack.lu/talks/#infosec-and-failure) ([杏👼Ąż](http://2017.hack.lu/talks/#bio-)) |
-| 12:00 | Lunch - [shred it for free\*](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
-| 13:00 | [The untold stories of Hackers in Detention]() [Aaron]() & [JKT]()|
+| 12:00 | Lunch - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
+| 13:00 | [The untold stories of Hackers in Detention]() ([Aaron](), [JKT]())|
 | 13:30 | [Sigma - Generic Signatures for Log Events](http://2017.hack.lu/talks/#sigma---generic-signatures-for-log-events) ([Thomas Patzke](http://2017.hack.lu/talks/#bio-thomas-patzke)) |
 | 14:15 | [SMT Solvers in the IT Security - deobfuscating binary code with logic](http://2017.hack.lu/talks/#smt-solvers-in-the-it-security---deobfuscating-binary-code-with-logic) ([Thaís Moreira Hamasaki](http://2017.hack.lu/talks/#bio-thas-moreira-hamasaki---barbieauglend)) <!--- static: not Thursday -->|
 | 15:00 | [Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network](http://2017.hack.lu/talks/#network-automation-is-not-your-safe-haven-protocol-analysis-and-vulnerabilities-of-autonomic-network) ([Omar Eissa](http://2017.hack.lu/talks/#bio-omar-eissa))<!--- static 45+15--> |
-| 15:45 | Refreshment break - [shred it for free\*](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
+| 15:45 | Refreshment break - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"}|
 | 16:00 | [API design for cryptography](http://2017.hack.lu/talks/#api-design-for-cryptography) ([Frank Denis](http://2017.hack.lu/talks/#bio-frank-denis))|
 | 16:45 | [WTFrance ?! Cryptography and legislation in France](http://2017.hack.lu/talks/#wtfrance--cryptography-and-legislation-in-france) ([Okhin](http://2017.hack.lu/talks/#bio-okhin)) |
 | 17:30 | [In Soviet Russia, Vulnerability Finds You](http://2017.hack.lu/talks/#in-soviet-russia-vulnerability-finds-you) ([Inbar Raz](http://2017.hack.lu/talks/#bio-inbar-raz))|
 | 18:15 | [Hospitals and infosec (the consequences of bad security in health care)](http://2017.hack.lu/talks/#hospitals-and-infosec-the-consequences-of-bad-security-in-health-care) ([Jelena Milosevic](http://2017.hack.lu/talks/#bio-jelena-milosevic))<!--- static 60 minutes--> |
 | 19:15 | |
 | 20:30 | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| All day |\* [Hardware shredder will be available outside on a truck. There will be shred it for free slots during break times and on demand. Bring your old HDD, CDs, Smart Phones, SD cards, SIM cards, Diskettes, floppy disks etc and shred it for free. Please check the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
 {: class="table"}
 
 Thursday 19 October 2017 (Talks)
@@ -68,7 +67,8 @@ Thursday 19 October 2017 (Talks)
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 08:00 | [The Struggle: dealing with language designers & maintainers on proper use of CSPRNGs]() [Aaron Zauner]()
+| 07:30 | Registration open & refreshment |
+| 08:00 | [The Struggle: dealing with language designers & maintainers on proper use of CSPRNGs]() ([Aaron Zauner]())
 | 08:45 | [Automation Attacks at Scale](http://2017.hack.lu/talks/#automation-attacks-at-scale) ([Will Glazier](http://2017.hack.lu/talks/#bio-will-glazier), [Mayank Dhiman](http://2017.hack.lu/talks/#bio-mayank-dhiman)) |
 | 09:30 | [Front door Nightmares. When smart is not secure](http://2017.hack.lu/talks/#front-door-nightmares-when-smart-is-not-secure) ([ObiWan666](http://2017.hack.lu/talks/#bio-obiwan666---obiwan666))|
 | 10:15 | Refreshment break |
@@ -93,11 +93,8 @@ Tuesday 17 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 10:15 | Refreshment break | Refreshment break|
-| 10:30 | continue workshop | continue workshop|
-| 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 | [Reverse Engineering  a (M)MORPG](http://2017.hack.lu/talks/#reverse-engineering--a-mmorpg) ([Antonin Beaujeant](http://2017.hack.lu/talks/#bio-antonin-beaujeant---beaujeant)) *ca. 6h* <!--- static duration-->|[Mobile Security workshop](http://2017.hack.lu/talks/#mobile-security-workshop) ([Frank Spiering](http://2017.hack.lu/talks/#bio-frank-spierings-1), [Arthur Donkers](http://2017.hack.lu/talks/#bio-arthur-donkers))) *ca. 6h*|
+| 13:30 | [Reverse Engineering  a (M)MORPG](http://2017.hack.lu/talks/#reverse-engineering--a-mmorpg) ([Antonin Beaujeant](http://2017.hack.lu/talks/#bio-antonin-beaujeant---beaujeant)) *ca. 6h* <!--- static duration-->|[Mobile Security workshop](http://2017.hack.lu/talks/#mobile-security-workshop) ([Frank Spiering](http://2017.hack.lu/talks/#bio-frank-spierings-1), [Arthur Donkers](http://2017.hack.lu/talks/#bio-arthur-donkers)) *ca. 6h*|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 19:15 |end of workshop|  ||
@@ -130,7 +127,7 @@ Thursday 19 October 2017 (Workshops)
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 | [Dr. Honeypots - How I Learned to Stop Worrying and Know My Enemies (and Worms)](http://2017.hack.lu/talks/) ([Guillaume ARCAS](http://2017.hack.lu/talks/))||
+| 13:30 | [Dr. Honeypots - How I Learned to Stop Worrying and Know My Enemies (and Worms)](http://2017.hack.lu/talks/) ([Guillaume Arcas](http://2017.hack.lu/talks/))||
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 18:00 |end of workshop|  ||        |                        |
@@ -138,7 +135,7 @@ Thursday 19 October 2017 (Workshops)
 {: class="table"}
 
 
-Monday 16 October 2017 (Special interest pre-hack meeting)
+Monday 16 October 2017 Special interest pre-hack meeting
 ----------------------------------------------------------
 
 | Time | Room | Title |
@@ -148,5 +145,11 @@ Monday 16 October 2017 (Special interest pre-hack meeting)
 {: class="table table-striped"}
 
 
-Friday 20 October 2017 (Security BSides Luxembourg)
+Wednesday 18 October 2017 Hardware shredder
+-------------------------------------------
+
+| All day | \* [A hardware shredder will be available outside on a truck. There will be shred-it-for-free slots during break times and on demand. Feel free to bring your old storage devices, e.g. HDDs, CDs, smart phones, SD cards, SIM cards, floppy disks  and have them shredded for free. Please watch the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
+
+
+Friday 20 October 2017 Security BSides Luxembourg
 ----------------------
