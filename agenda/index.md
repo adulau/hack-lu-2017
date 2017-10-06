@@ -52,7 +52,7 @@ Wednesday 18 October 2017 (Talks)
 | 13:00 | [The untold stories of Hackers in Detention]() [Aaron]() & [JKT]()|
 | 13:30 | [Sigma - Generic Signatures for Log Events](http://2017.hack.lu/talks/#sigma---generic-signatures-for-log-events) ([Thomas Patzke](http://2017.hack.lu/talks/#bio-thomas-patzke)) |
 | 14:15 | [SMT Solvers in the IT Security - deobfuscating binary code with logic](http://2017.hack.lu/talks/#smt-solvers-in-the-it-security---deobfuscating-binary-code-with-logic) ([Thaís Moreira Hamasaki](http://2017.hack.lu/talks/#bio-thas-moreira-hamasaki---barbieauglend)) <!--- static: not Thursday -->|
-| 15:00 | [Hacking the Warrant: A workshop on LEA CNE](http://2017.hack.lu/talks/#hacking-the-warrant-a-workshop-on-lea-cne) ([Scarlet Kim](http://2017.hack.lu/talks/#bio-scarlet-kim), [Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett))|
+| 15:00 | [Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network](http://2017.hack.lu/talks/#network-automation-is-not-your-safe-haven-protocol-analysis-and-vulnerabilities-of-autonomic-network) ([Omar Eissa](http://2017.hack.lu/talks/#bio-omar-eissa))<!--- static 45+15--> |
 | 15:45 | Refreshment break - [shred it for free\*](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
 | 16:00 | [API design for cryptography](http://2017.hack.lu/talks/#api-design-for-cryptography) ([Frank Denis](http://2017.hack.lu/talks/#bio-frank-denis))|
 | 16:45 | [WTFrance ?! Cryptography and legislation in France](http://2017.hack.lu/talks/#wtfrance--cryptography-and-legislation-in-france) ([Okhin](http://2017.hack.lu/talks/#bio-okhin)) |
@@ -83,7 +83,6 @@ Thursday 19 October 2017 (Talks)
 | 16:00 | [Bug hunting using symbolic virtual machines!](http://2017.hack.lu/talks/#bug-hunting-using-symbolic-virtual-machines) ([Anto Joseph](http://2017.hack.lu/talks/#bio-anto-joseph)) |
 | 16:45 | [Vulnerability Disclosure, Governments and You](http://2017.hack.lu/talks/#vulnerability-disclosure-governments-and-you) ([Jeroen van der Ham](http://2017.hack.lu/talks/#bio-jeroen-van-der-ham)) |
 | 17:30 | [TIDS: A Framework for Detecting Threats in Telecom Networks](http://2017.hack.lu/talks/#tids-a-framework-for-detecting-threats-in-telecom-networks) ([Alexandre De Oliveira](http://2017.hack.lu/talks/#bio-alexandre-de-oliveira), [Cu D. Nguyen](http://2017.hack.lu/talks/#bio-cu-d-nguyen)) |
-| 18:15 | [Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network](http://2017.hack.lu/talks/#network-automation-is-not-your-safe-haven-protocol-analysis-and-vulnerabilities-of-autonomic-network) ([Omar Eissa](http://2017.hack.lu/talks/#bio-omar-eissa))<!--- static 45+15--> |
 {: class="table"}
 
 Workshop Agenda
@@ -108,15 +107,13 @@ Tuesday 17 October 2017 (Workshops)
 
 Wednesday 18 October 2017 (Workshops)
 -------------------------------------
-
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
 | 08:45 | [SAP Pentest - From outside to company salaries tampering](http://2017.hack.lu/talks/#sap-pentest---from-outside-to-company-salaries-tampering) ([Yvan Genuer](http://2017.hack.lu/talks/#bio-yvan-genuer)) *ca. 3h*|[Python and Machine Learning](http://2017.hack.lu/talks/#python-and-machine-learning) ([Sébastien Larinier](http://2017.hack.lu/talks/#bio-sbastien-larinier---sebdravenhttpstwittercomsebdraven)) *ca. 3h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
-| 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4h*||
+| 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4h*|[Hacking the Warrant: A workshop on LEA CNE](http://2017.hack.lu/talks/#hacking-the-warrant-a-workshop-on-lea-cne) ([Scarlet Kim](http://2017.hack.lu/talks/#bio-scarlet-kim), [Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett))|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 18:00 |end of workshop|  ||     |                        |           |
