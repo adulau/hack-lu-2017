@@ -1587,3 +1587,50 @@ Bio: Guillaume ARCAS
 --------------------
 
 TODO
+
+Incident Response in the Age of Threat Intelligence with MISP, TheHive & Cortex
+-------------------------------------------------------------------------------
+by Saâd Kadhi, Alexandre Dulaunoy, Andras Iklody
+
+- [MISP](https://www.misp-project.org/), [TheHive](https://thehive-project.org/) & Cortex Overview
+- Installing & Configuring MISP
+- Installing & Configuring TheHive & Cortex
+- Bringing it all together
+- The Incident Response process
+- Simple IR case study
+- Enters MISP: Threat Intelligence, events and alerts
+- From Zero to Hero: the complete investigation cycle by example
+- Workshop conclusion, Q&A
+
+Attendees must:
+
+- Have prior experience in the field of information security.
+- Have good knowledge of TCP/IP, DNS and related concepts such as hashes and URLs.
+- Bring laptops powerful enough to run two VMs at the same time.
+- Install prior to the workshop the MISP training VM available from the following URL:
+- https://www.circl.lu/services/misp-training-materials/
+- Install prior to the workshop TheHive+Cortex training VM available from the following URL:
+
+https://github.com/CERT-BDF/TheHiveDocs/blob/master/training-material.md
+
+Attendees should:
+
+- Be comfortable using Linux or Unix-like operating systems.
+- Have basic knowledge of Incident Response, Digital Forensics & Threat Intelligence.
+
+
+Bio: Saâd Kadhi
+---------------
+
+Saâd Kadhi is TheHive Project’s leader. He has over 18 years of experience in cybersecurity. He discovered incident response and digital forensics in early 2008 and has been working exclusively in this fascinating field since then. He built a CSIRT at a French multinational food-products corporation and worked as an analyst at CERT Société Générale before joining the French national central bank where he leads a team of 20 analysts. He frequently writes information security articles in a leading French magazine. He also co-organizes the Botconf security conference.
+
+Bio: Alexandre Dulaunoy
+-----------------------
+
+Alexandre encountered his first computer in the eighties, and he disassembled it to know how the thing worked. While pursuing his logical path towards information security and free software, he worked as senior security network consultant at different places (e.g. Ubizen, now Cybertrust). He co-founded a startup called Conostix specialized in information security management, and the past 6 years, he was the manager of global information security at SES, a leading international satellite operator. He is now working at the national Luxembourgian Computer Security Incident Response Team (CSIRT) in the research and operational fields. He is also lecturer in information security at Paul-Verlaine University in Metz and the University of Luxembourg. 
+
+Bio: Andras Iklody
+------------------
+
+Andras Iklody is a software developer working for CIRCL and has been the main developer of the Malware Information Sharing Platform since the beginning of 2013. He is a firm believer that there are no problems that cannot be tackled by building the right tool.
+
