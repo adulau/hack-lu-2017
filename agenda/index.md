@@ -113,8 +113,7 @@ Wednesday 18 October 2017 (Workshops)
 | 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4h*|[Hacking the Warrant: A workshop on LEA CNE](http://2017.hack.lu/talks/#hacking-the-warrant-a-workshop-on-lea-cne) ([Scarlet Kim](http://2017.hack.lu/talks/#bio-scarlet-kim), [Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett))|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
-| 18:00 |end of workshop|  ||     |                        |           |
-
+| 18:00 |end of workshop|  ||     
 {: class="table"}
 
 Thursday 19 October 2017 (Workshops)
@@ -148,7 +147,7 @@ Monday 16 October 2017 Special interest pre-hack meeting
 Wednesday 18 October 2017 Hardware shredder
 -------------------------------------------
 
-| All day | \* [A hardware shredder will be available outside on a truck. There will be shred-it-for-free slots during break times and on demand. Feel free to bring your old storage devices, e.g. HDDs, CDs, smart phones, SD cards, SIM cards, floppy disks  and have them shredded for free. Please watch the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
+[A hardware shredder will be available outside on a truck. There will be shred-it-for-free slots during break times and on demand. Feel free to bring your old storage devices, e.g. HDDs, CDs, smart phones, SD cards, SIM cards, floppy disks  and have them shredded for free. Please watch the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} 
 
 
 Friday 20 October 2017 Security BSides Luxembourg
