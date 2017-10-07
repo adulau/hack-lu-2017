@@ -1167,7 +1167,28 @@ Bio: JKT
 JKT (512 days pre-trail detention): detained on 5th of June 2013 for allegedly being involved
 in Mainframe hacking (actually for talking to someone who unsuccessfully attempted logging onto an FTP server)
 
+Applying bug hunters methodologies to your organisation, lessons from the field.
+--------------------------------------------------------------------------------
+by Paul Amar
 
+Bug bounty community has been extremely active in the last couple of years, providing
+grateful resources to perform security assessment of different kind of platforms. Those
+techniques and concepts can especially be re-used in similar way inside your organisation,
+whatever size it is.
+
+In this talk, we will provide you information on how we got started, from
+extracting useful information from different sources such as HackerOne, Shodan, Censys and so on, to
+identify similar security issues inside your company. The techniques presented will cover a lot of
+reconnaissance skills (combined with benchmarks) actively used in the wild additionally with exploitation ones.
+
+This talk aims at providing tools and content either for bug hunters but also organisations who want to be one
+step ahead by using similar techniques. Expect few releases on GitHub this same day :)
+
+Bio: Paul Amar
+--------------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu nibh quis tellus iaculis malesuada sit amet eu mi. (...)
+More seriously, Paul Amar is working as a Security Analyst for Michelin. He likes breaking things as a hobby and developing open-source tools mostly in Python. (Such as DET, a toolkit to exfiltrate data over multiple channels). He also likes IPA beers and cookies.
 
 Workshops
 =========

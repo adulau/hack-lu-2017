@@ -83,6 +83,7 @@ Thursday 19 October 2017 (Talks)
 | 16:00 | [Bug hunting using symbolic virtual machines!](http://2017.hack.lu/talks/#bug-hunting-using-symbolic-virtual-machines) ([Anto Joseph](http://2017.hack.lu/talks/#bio-anto-joseph)) |
 | 16:45 | [Vulnerability Disclosure, Governments and You](http://2017.hack.lu/talks/#vulnerability-disclosure-governments-and-you) ([Jeroen van der Ham](http://2017.hack.lu/talks/#bio-jeroen-van-der-ham)) |
 | 17:30 | [TIDS: A Framework for Detecting Threats in Telecom Networks](http://2017.hack.lu/talks/#tids-a-framework-for-detecting-threats-in-telecom-networks) ([Alexandre De Oliveira](http://2017.hack.lu/talks/#bio-alexandre-de-oliveira), [Cu D. Nguyen](http://2017.hack.lu/talks/#bio-cu-d-nguyen)) |
+| 18:15 | [Applying bug hunters methodologies to your organisation, lessons from the field.](http://2017.hack.lu/talks/) ([Paul Amar](http://2017.hack.lu/talks/))|
 {: class="table"}
 
 Workshop Agenda
