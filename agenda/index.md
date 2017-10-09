@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Agenda
-excerpt: "Agenda Hack.lu 2016"
+excerpt: "Agenda Hack.lu 2017"
 modified: 2016-03-09T16:00:00
 ---
 
