@@ -84,6 +84,7 @@ Thursday 19 October 2017 (Talks)
 | 16:45 | [Vulnerability Disclosure, Governments and You](http://2017.hack.lu/talks/#vulnerability-disclosure-governments-and-you) ([Jeroen van der Ham](http://2017.hack.lu/talks/#bio-jeroen-van-der-ham)) |
 | 17:30 | [TIDS: A Framework for Detecting Threats in Telecom Networks](http://2017.hack.lu/talks/#tids-a-framework-for-detecting-threats-in-telecom-networks) ([Alexandre De Oliveira](http://2017.hack.lu/talks/#bio-alexandre-de-oliveira), [Cu D. Nguyen](http://2017.hack.lu/talks/#bio-cu-d-nguyen)) |
 | 18:15 | [Applying bug hunters methodologies to your organisation, lessons from the field.](http://2017.hack.lu/talks/) ([Paul Amar](http://2017.hack.lu/talks/))|
+| 19:15 | Kick-off for [Open Source Security Software Hackathon](https://hackathon.hack.lu/) which takes place on Friday 20 October 2017
 {: class="table"}
 
 Workshop Agenda
