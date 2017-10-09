@@ -158,5 +158,19 @@ Wednesday 18 October 2017 Hardware shredder
 Friday 20 October 2017
 ----------------------
 
-- Security BSides Luxembourg
 - [Open Source Security Software hackathon](https://hackathon.hack.lu/)
+
+hack.lu brings many security professionals together. We observe that many people and organisations create open source software to support their security activities, ranging from reverse engineering, digital forensic, incident response (DFIR), threat analysis to network security. Many of the security tools are developed on a long-term commitment and they provide viable solutions to improve security globally. Due to the big success of the first hackathon in May and in order to support the continuity of innovation, development and integration of such open source security tools, we decided to organise a two-days hackathon after the hack.lu conference in October. 
+
+Kickoff:    Thursday, 19:15
+
+Hackathon:  Friday, 09:00
+
+- [Security BSides Luxembourg](https://bsideslux.lu)
+
+Each BSides is a community-driven framework for building events for and by information security community members. The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. 
+
+Defending any decent-sized organization is extremely difficult; you have to keep the business up and running while also making sure that attackers will not be able to reach the crown-jewels and you have to do it in a way that makes your C-level executives, managers and users happy.
+ 
+BSides Luxembourg is a conference that is 100% dedicated to defense, inspiring discussions and knowledge exchange among the participants, whether they are from red or blue team side.
+
