@@ -154,5 +154,8 @@ Wednesday 18 October 2017 Hardware shredder
 [A hardware shredder will be available outside on a truck. There will be shred-it-for-free slots during break times and on demand. Feel free to bring your old storage devices, e.g. HDDs, CDs, smart phones, SD cards, SIM cards, floppy disks  and have them shredded for free. Please watch the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} 
 
 
-Friday 20 October 2017 Security BSides Luxembourg
+Friday 20 October 2017
 ----------------------
+
+- Security BSides Luxembourg
+- [Open Source Security Software hackathon](https://hackathon.hack.lu/)
