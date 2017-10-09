@@ -114,7 +114,7 @@ Wednesday 18 October 2017 (Workshops)
 | 12:00 | Lunch break | Lunch break|
 | 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4h*|[Hacking the Warrant: A workshop on LEA CNE](http://2017.hack.lu/talks/#hacking-the-warrant-a-workshop-on-lea-cne) ([Scarlet Kim](http://2017.hack.lu/talks/#bio-scarlet-kim), [Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett))|
 | 15:45 | Refreshment break |Refreshment break||
-| 16:00 |workshop continued| workshop continued ||
+| 16:00 |workshop continued| [Lockpicking workshop]() ([Walter Belgers]()) ||
 | 18:00 |end of workshop| end of workshop ||     
 
 {: class="table"}
