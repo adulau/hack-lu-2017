@@ -25,6 +25,16 @@ Agenda
 
 The MISP Summit will take place from 14:00 to 18:00, Monday 16 October 2017.
 
+| Time | Talks and Speakers |
+|:---------:|:------------------:|
+|14:00 - 14:45|MISP introduction and new features|
+|14:45 - 15:30|PyMISP and MISP Objects: a door to new opportunities|
+|15:30 - 16:00|TheHive and MISP|
+|16:00 - 16:15|Break|
+|16:15 - 16:40|OpenTAXII and EclecticIQ open source strategies|
+|16:40 - 17:10|MISP and open formats|
+|17:10 - 18:00|Q&A session with users|
+
 
 Where
 -----
