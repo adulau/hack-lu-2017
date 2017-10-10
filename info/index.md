@@ -24,8 +24,11 @@ modified: 2017-05-07T19:44:38.564948-04:00
 
 The conference will be held as every year in Luxembourg, a small country between France, Belgium and Germany. The conference venue is the Parc Hotel in Luxembourg-Dommeldange, like in the previous years.
 
-We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through [Parc Hotel's registration form](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) and mentioning the promotional code 'Hack2017'. Please make sure to register your hotel room before September 15, 2017 in order to be able to benefit from the proposal. 
+We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through [Parc Hotel's registration form](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) and mentioning the promotional code 'Hack2017'. Please make sure to register your hotel room before September 15, 2017 in order to be able to benefit from the proposal.
 
+### Address of the Venue
+
+Alvisse Parc Hotel - 120 Route d'Echternach, 1453 Luxembourg
 
 ## Public transit
 
