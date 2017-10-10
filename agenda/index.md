@@ -10,6 +10,8 @@ modified: 2016-03-09T16:00:00
 Talk Agenda
 ===========
 
+[Hack.lu 2017 - agenda in PDF format](/assets/agenda-hack.lu2017-web.pdf)
+
 Tuesday 17 October 2017 (Talks)
 -------------------------------
 
@@ -152,7 +154,7 @@ Monday 16 October 2017 Special interest pre-hack meeting
 Wednesday 18 October 2017 Hardware shredder
 -------------------------------------------
 
-[A hardware shredder will be available outside on a truck. There will be shred-it-for-free slots during break times and on demand. Feel free to bring your old storage devices, e.g. HDDs, CDs, smart phones, SD cards, SIM cards, floppy disks  and have them shredded for free. Please watch the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} 
+[A hardware shredder will be available outside on a truck. There will be shred-it-for-free slots during break times and on demand. Feel free to bring your old storage devices, e.g. HDDs, CDs, smart phones, SD cards, SIM cards, floppy disks  and have them shredded for free. Please watch the video.](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"}
 
 
 Friday 20 October 2017
@@ -168,9 +170,9 @@ Hackathon:  Friday, 09:00
 
 - [Security BSides Luxembourg](https://bsideslux.lu)
 
-Each BSides is a community-driven framework for building events for and by information security community members. The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. 
+Each BSides is a community-driven framework for building events for and by information security community members. The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening.
 
 Defending any decent-sized organization is extremely difficult; you have to keep the business up and running while also making sure that attackers will not be able to reach the crown-jewels and you have to do it in a way that makes your C-level executives, managers and users happy.
- 
+
 BSides Luxembourg is a conference that is 100% dedicated to defense, inspiring discussions and knowledge exchange among the participants, whether they are from red or blue team side.
 
