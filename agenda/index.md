@@ -97,6 +97,10 @@ Tuesday 17 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
+|  9:30 | [Programming Wireshark With Lua]() ([Didier Stevens]()) *ca. 2h*||
+| 10:15 | Refreshment break | Refreshment break|
+| 10:30 | workshop continued | workshop continued|
+| 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
 | 13:30 | [Reverse Engineering  a (M)MORPG](http://2017.hack.lu/talks/#reverse-engineering--a-mmorpg) ([Antonin Beaujeant](http://2017.hack.lu/talks/#bio-antonin-beaujeant---beaujeant)) *ca. 6h* <!--- static duration-->|[Mobile Security workshop](http://2017.hack.lu/talks/#mobile-security-workshop) ([Frank Spiering](http://2017.hack.lu/talks/#bio-frank-spierings-1), [Arthur Donkers](http://2017.hack.lu/talks/#bio-arthur-donkers)) *ca. 6h*|
 | 15:45 | Refreshment break |Refreshment break||
