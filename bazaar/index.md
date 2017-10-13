@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hack.lu 2016 Bazaar
-excerpt: "Hack.lu 2016 Bazaar"
-modified: 2016-03-10T19:44:38.564948-04:00
+title: Hack.lu 2017 Bazaar
+excerpt: "Hack.lu 2017 Bazaar"
+modified: 2017-10-13T23:39:38.564948-04:00
 ---
 
 
@@ -10,14 +10,14 @@ What?
 -----
 We all have plenty of cool tools and gadgets on our workbench or in our attic and sometimes not really the time or envy to use or investigate them.
 On the other hand, it's very probable that it could interest some other attendees.
-So this year, Hack.lu proposes to act as a facilitator.
+So this year again, Hack.lu proposes to act as a facilitator.
 
 Rules
 ------
 Not many rules but to get things going smoothly please respect those ones:
 
 * Propose only items related to Hack.lu activities
-* Publish your ad via Twitter with hashtag #hacklu2016bazaar
+* Publish your ad via Twitter with hashtag #hacklu2017bazaar
 * Bring your stuff at Hack.lu
 * Economical model up to you: gift, barter, cash, BTC,... but please no auctions!
 
@@ -31,4 +31,4 @@ etc.
 
 (Un)classified ads
 -------------------
-To have a look on the ads, watch [#hacklu2016bazaar on Twitter](https://twitter.com/search?f=tweets&q=%23hacklu2016bazaar&src=typd).
+To have a look on the ads, watch [#hacklu2017bazaar on Twitter](https://twitter.com/search?f=tweets&q=%23hacklu2017bazaar&src=typd).
