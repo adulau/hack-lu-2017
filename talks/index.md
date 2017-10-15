@@ -1090,7 +1090,7 @@ from local meetups to internationally recognized conferences.
 
 The untold stories of Hackers in Detention
 ------------------------------------------
-by Aaron & JKT
+by azet & JKT
 
 Bacause Phrack `Volume 0x0e, Issue 0x43, Phile #0x05 of 0x10` isn't what you should expect:
 
