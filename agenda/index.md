@@ -44,7 +44,7 @@ Wednesday 18 October 2017 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 07:30 | Registration open & refreshment |
-| 08:00 | [Hiding in Plain Sight: Qadars, a Notoriously Sophisticated Crimeware Trojan]() ([Raashid Bhat]())
+| 08:00 | [The untold stories of Hackers in Detention]() ([azed]() and [JKT]())
 | 08:45 | [Keynterceptor: Press any key to continue](http://2017.hack.lu/talks/#keynterceptor-press-any-key-to-continue) ([Niels van Dijkhuizen](http://2017.hack.lu/talks/#bio-niels-van-dijkhuizen)) |
 | 09:30 | [A view into ALPC-RPC](http://2017.hack.lu/talks/#a-view-into-alpc-rpc) ([Clement Rouault](http://2017.hack.lu/talks/#bio-clement-rouault), [Thomas Imbert](http://2017.hack.lu/talks/#bio-thomas-imbert)) |
 | 10:15 | Refreshment break - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"}|
