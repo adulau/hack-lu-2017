@@ -1051,56 +1051,6 @@ Intelligence capabilities. He joined the Global REsearch and Analysis Team
 (GREAT) of Kaspersky in 2017 to enforce their Threat Intelligence
 capabilities.
 
-Hiding in Plain Sight: Qadars, a Notoriously Sophisticated Crimeware Trojan
----------------------------------------------------------------------------
-by Raashid Bhat
-
-Qadars appeared in late 2012 and since then has stayed away from the
-spotlight , but it has been hiding in plain sight since then
-
-Most banking trojans are profiled as aggressive in distribution, visibility
-and attack patterns. Qadars is a stealthy banking trojan that breaks with
-tradition.  Although quite active in the past few years, we rarely detect
-Qadars due to its successful evasion tactics.
-
-In this presentation, we will explore how Qadars utilizes deception
-techniques to stay hidden and out of analysts’ reach, with multiple layers
-of attack surfaces and communication endpoints. We will also discuss the
-infection vectors and social engineering tricks the criminals employ to
-bait users. We will dig deeper into the techniques by showing how It
-utilizes c2 domains just as the first point of contact, and eventually has
-dynamic and onion network based control servers. It utilizes privilege
-escalation exploits retrieved dynamically from c2 based on the operating
-system running to escalate privileges.
-
-Qadars has a complex coded base which is not based on any previously leaked
-trojans . Qadars also supports the use of additional modules, increasing
-its versatility and the threat it poses once it has infected a host. The
-analysis of Qadars uncovered a complex infrastructure with infections are
-proxifying connections to master command and control server .
-We will go on to explain how Qadars utilizes privilege escalation exploits
-which are retrieved dynamically from c2 based on the operating system
-running to escalate privileges. But that’s not the end of the story.
-Criminals behind Qadars make sure that they perform further reconnaissance
-with their infections to look for a gold mine.
-
-From attacking poker player to POS systems, it does not leave any chance to
-leave any money behind. Even the idle infections are utilized by
-orchestrating them into c2 proxy slaves. Internet gateways of these
-infections are modified using UPNP and using a special plugin these
-infections are turned into c2 proxies which form a chain with other c2
-proxies towards the master c2.
-
-Session attendees will gain a clear understanding of how Qadars is a
-uniquely dangerous banking trojan, the infection vectors and social
-engineering tricks deployed by the criminals that make it successful, and
-how one can better prepare for banking trojan attacks.
-
-Bio: Raashid Bhat
------------------
-
-TODO
-
 The Struggle: dealing with language designers & maintainers on proper use of CSPRNGs
 ------------------------------------------------------------------------------------
 by Aaron Zauner
@@ -1648,7 +1598,7 @@ Saâd Kadhi is TheHive Project’s leader. He has over 18 years of experience in
 Bio: Alexandre Dulaunoy
 -----------------------
 
-Alexandre encountered his first computer in the eighties, and he disassembled it to know how the thing worked. While pursuing his logical path towards information security and free software, he worked as senior security network consultant at different places (e.g. Ubizen, now Cybertrust). He co-founded a startup called Conostix specialized in information security management, and the past 6 years, he was the manager of global information security at SES, a leading international satellite operator. He is now working at the national Luxembourgian Computer Security Incident Response Team (CSIRT) in the research and operational fields. He is also lecturer in information security at Paul-Verlaine University in Metz and the University of Luxembourg. 
+Alexandre encountered his first computer in the eighties, and he disassembled it to know how the thing worked. While pursuing his logical path towards information security and free software, he worked as senior security network consultant at different places (e.g. Ubizen, now Cybertrust). He co-founded a startup called Conostix specialized in information security management, and the past 6 years, he was the manager of global information security at SES, a leading international satellite operator. He is now working at the national Luxembourgian Computer Security Incident Response Team (CSIRT) in the research and operational fields. He is also lecturer in information security at Paul-Verlaine University in Metz and the University of Luxembourg.
 
 Bio: Andras Iklody
 ------------------

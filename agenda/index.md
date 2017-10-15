@@ -97,7 +97,7 @@ Tuesday 17 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-|  9:30 | [Programming Wireshark With Lua]() ([Didier Stevens]()) *ca. 2h*||
+|  9:30 | [Programming Wireshark With Lua]() ([Didier Stevens]()) *ca. 2h* | [Breaking Apps with Frida]() [Jahmel Harris]()|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | workshop continued | workshop continued|
 | 12:00 | Lunch break | Lunch break|
@@ -122,7 +122,7 @@ Wednesday 18 October 2017 (Workshops)
 | 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4h*|[Hacking the Warrant: A workshop on LEA CNE](http://2017.hack.lu/talks/#hacking-the-warrant-a-workshop-on-lea-cne) ([Scarlet Kim](http://2017.hack.lu/talks/#bio-scarlet-kim), [Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett))|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| [Lockpicking workshop]() ([Walter Belgers]()) ||
-| 18:00 |end of workshop| end of workshop ||     
+| 18:00 |end of workshop| end of workshop ||
 
 {: class="table"}
 
@@ -167,7 +167,7 @@ Friday 20 October 2017
 
 - [Open Source Security Software hackathon](https://hackathon.hack.lu/)
 
-hack.lu brings many security professionals together. We observe that many people and organisations create open source software to support their security activities, ranging from reverse engineering, digital forensic, incident response (DFIR), threat analysis to network security. Many of the security tools are developed on a long-term commitment and they provide viable solutions to improve security globally. Due to the big success of the first hackathon in May and in order to support the continuity of innovation, development and integration of such open source security tools, we decided to organise a two-days hackathon after the hack.lu conference in October. 
+hack.lu brings many security professionals together. We observe that many people and organisations create open source software to support their security activities, ranging from reverse engineering, digital forensic, incident response (DFIR), threat analysis to network security. Many of the security tools are developed on a long-term commitment and they provide viable solutions to improve security globally. Due to the big success of the first hackathon in May and in order to support the continuity of innovation, development and integration of such open source security tools, we decided to organise a two-days hackathon after the hack.lu conference in October.
 
 Kickoff:    Thursday, 19:15
 
