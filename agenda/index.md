@@ -20,7 +20,7 @@ Tuesday 17 October 2017 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 07:30 | Registration open & refreshment |
-| 08:45 | [Myths and realities of attribution manipulation]() ([Félix Aimé](), [Ronan Mouchoux]())
+| 08:45 | [Myths and realities of attribution manipulation](http://2017.hack.lu/talks/#myths-and-realities-of-attribution-manipulation) ([Félix Aimé](http://2017.hack.lu/talks/#bio-flix-aim), [Ronan Mouchoux](http://2017.hack.lu/talks/#bio-ronan-mouchoux))
 | 09:30 | [Snuffleupagus - Killing bugclasses in PHP 7, virtual-patching the rest](http://2017.hack.lu/talks/#snuffleupagus---killing-bugclasses-in-php-7-virtual-patching-the-rest) ([Sébastien (blotus) Blot](http://2017.hack.lu/talks/#bio-sbastien-blotus-blot-thibault-buixor-koechlin-julien-jvoisin-voisin), [Thibault (buixor) Koechlin](http://2017.hack.lu/talks/#bio-sbastien-blotus-blot-thibault-buixor-koechlin-julien-jvoisin-voisin), [Julien (jvoisin) Voisin](http://2017.hack.lu/talks/#bio-sbastien-blotus-blot-thibault-buixor-koechlin-julien-jvoisin-voisin)) |
 | 10:15 | Refreshment break|
 | 10:30 | [Randori, a low interaction honeypot with a vengeance](http://2017.hack.lu/talks/#randori-a-low-interaction-honeypot-with-a-vengeance) ([Bouke van Laethem](http://2017.hack.lu/talks/#bio-bouke-van-laethem)) |
@@ -44,14 +44,14 @@ Wednesday 18 October 2017 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 07:30 | Registration open & refreshment |
-| 08:00 | [Hiding in Plain Sight: Qadars, a Notoriously Sophisticated Crimeware Trojan]() ([Raashid Bhat]())
+| 08:00 | [The untold stories of Hackers in Detention](http://2017.hack.lu/talks/#the-untold-stories-of-hackers-in-detention) ([azed](http://2017.hack.lu/talks/#bio-azet) and [JKT](http://2017.hack.lu/talks/#bio-jkt))
 | 08:45 | [Keynterceptor: Press any key to continue](http://2017.hack.lu/talks/#keynterceptor-press-any-key-to-continue) ([Niels van Dijkhuizen](http://2017.hack.lu/talks/#bio-niels-van-dijkhuizen)) |
 | 09:30 | [A view into ALPC-RPC](http://2017.hack.lu/talks/#a-view-into-alpc-rpc) ([Clement Rouault](http://2017.hack.lu/talks/#bio-clement-rouault), [Thomas Imbert](http://2017.hack.lu/talks/#bio-thomas-imbert)) |
 | 10:15 | Refreshment break - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"}|
 | 10:30 | [How I’ve Broken Every Threat Intel Platform I’ve Ever Had (And Settled on MISP)](http://2017.hack.lu/talks/#how-ive-broken-every-threat-intel-platform-ive-ever-had-and-settled-on-misp) ([John Bambenek](http://2017.hack.lu/talks/#bio-john-bambenek))|
 | 11:15 | [Keynote: Infosec and failure](http://2017.hack.lu/talks/#infosec-and-failure) ([杏👼Ąż](http://2017.hack.lu/talks/#bio-)) |
 | 12:00 | Lunch - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
-| 13:00 | [The untold stories of Hackers in Detention]() ([Aaron](), [JKT]())|
+| 13:00 | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
 | 13:30 | [Sigma - Generic Signatures for Log Events](http://2017.hack.lu/talks/#sigma---generic-signatures-for-log-events) ([Thomas Patzke](http://2017.hack.lu/talks/#bio-thomas-patzke)) |
 | 14:15 | [SMT Solvers in the IT Security - deobfuscating binary code with logic](http://2017.hack.lu/talks/#smt-solvers-in-the-it-security---deobfuscating-binary-code-with-logic) ([Thaís Moreira Hamasaki](http://2017.hack.lu/talks/#bio-thas-moreira-hamasaki---barbieauglend)) <!--- static: not Thursday -->|
 | 15:00 | [Network Automation is not your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network](http://2017.hack.lu/talks/#network-automation-is-not-your-safe-haven-protocol-analysis-and-vulnerabilities-of-autonomic-network) ([Omar Eissa](http://2017.hack.lu/talks/#bio-omar-eissa))<!--- static 45+15--> |
@@ -61,7 +61,7 @@ Wednesday 18 October 2017 (Talks)
 | 17:30 | [In Soviet Russia, Vulnerability Finds You](http://2017.hack.lu/talks/#in-soviet-russia-vulnerability-finds-you) ([Inbar Raz](http://2017.hack.lu/talks/#bio-inbar-raz))|
 | 18:15 | [Hospitals and infosec (the consequences of bad security in health care)](http://2017.hack.lu/talks/#hospitals-and-infosec-the-consequences-of-bad-security-in-health-care) ([Jelena Milosevic](http://2017.hack.lu/talks/#bio-jelena-milosevic))<!--- static 60 minutes--> |
 | 19:15 | |
-| 20:30 | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
+| 20:30 | [Social event]()|
 {: class="table"}
 
 Thursday 19 October 2017 (Talks)
@@ -70,7 +70,7 @@ Thursday 19 October 2017 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 07:30 | Registration open & refreshment |
-| 08:00 | [The Struggle: dealing with language designers & maintainers on proper use of CSPRNGs]() ([Aaron Zauner]())
+| 08:00 | [The Struggle: dealing with language designers & maintainers on proper use of CSPRNGs](http://2017.hack.lu/talks/#the-struggle-dealing-with-language-designers--maintainers-on-proper-use-of-csprngs) ([Aaron Zauner](http://2017.hack.lu/talks/#bio-aaron-zauner))
 | 08:45 | [Automation Attacks at Scale](http://2017.hack.lu/talks/#automation-attacks-at-scale) ([Will Glazier](http://2017.hack.lu/talks/#bio-will-glazier), [Mayank Dhiman](http://2017.hack.lu/talks/#bio-mayank-dhiman)) |
 | 09:30 | [Front door Nightmares. When smart is not secure](http://2017.hack.lu/talks/#front-door-nightmares-when-smart-is-not-secure) ([ObiWan666](http://2017.hack.lu/talks/#bio-obiwan666---obiwan666))|
 | 10:15 | Refreshment break |
@@ -97,7 +97,7 @@ Tuesday 17 October 2017 (Workshops)
 
 | Time | Hollenfels | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-|  9:30 | [Programming Wireshark With Lua]() ([Didier Stevens]()) *ca. 2h*||
+|  9:30 | [Programming Wireshark With Lua](http://2017.hack.lu/talks/#programming-wireshark-with-lua) ([Didier Stevens](http://2017.hack.lu/talks/#bio-didier-stevens)) *ca. 2h* | [Breaking Apps with Frida](http://2017.hack.lu/talks/#breaking-apps-with-frida) [Jahmel Harris](http://2017.hack.lu/talks/#bio-jahmel-harris)|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | workshop continued | workshop continued|
 | 12:00 | Lunch break | Lunch break|
@@ -121,8 +121,8 @@ Wednesday 18 October 2017 (Workshops)
 | 12:00 | Lunch break | Lunch break|
 | 13:30 |[Getting the Most Out of Windows Event Logs](http://2017.hack.lu/talks/#getting-the-most-out-of-windows-event-logs) ([David Szili](http://2017.hack.lu/talks/#bio-david-szili)) *ca. 4h*|[Hacking the Warrant: A workshop on LEA CNE](http://2017.hack.lu/talks/#hacking-the-warrant-a-workshop-on-lea-cne) ([Scarlet Kim](http://2017.hack.lu/talks/#bio-scarlet-kim), [Éireann Leverett](http://2017.hack.lu/talks/#bio-ireann-leverett))|
 | 15:45 | Refreshment break |Refreshment break||
-| 16:00 |workshop continued| [Lockpicking workshop]() ([Walter Belgers]()) ||
-| 18:00 |end of workshop| end of workshop ||     
+| 16:00 |workshop continued| [Lockpicking workshop](http://2017.hack.lu/talks/#) ([Walter Belgers](http://2017.hack.lu/talks/#)) ||
+| 18:00 |end of workshop| end of workshop ||
 
 {: class="table"}
 
@@ -138,7 +138,7 @@ Thursday 19 October 2017 (Workshops)
 | 10:30 | workshop continued | workshop continued|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/2stuvx5AYt)  | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
-| 13:30 | [Dr. Honeypots - How I Learned to Stop Worrying and Know My Enemies (and Worms)](http://2017.hack.lu/talks/) ([Guillaume Arcas](http://2017.hack.lu/talks/))| [Threat Intel workshop with MISP and The Hive]()|
+| 13:30 | [Dr. Honeypots - How I Learned to Stop Worrying and Know My Enemies (and Worms)](http://2017.hack.lu/talks/) ([Guillaume Arcas](http://2017.hack.lu/talks/))| [Threat Intel workshop with MISP and The Hive](http://2017.hack.lu/talks/#)|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
 | 18:00 |end of workshop|  ||        |                        |
@@ -167,7 +167,7 @@ Friday 20 October 2017
 
 - [Open Source Security Software hackathon](https://hackathon.hack.lu/)
 
-hack.lu brings many security professionals together. We observe that many people and organisations create open source software to support their security activities, ranging from reverse engineering, digital forensic, incident response (DFIR), threat analysis to network security. Many of the security tools are developed on a long-term commitment and they provide viable solutions to improve security globally. Due to the big success of the first hackathon in May and in order to support the continuity of innovation, development and integration of such open source security tools, we decided to organise a two-days hackathon after the hack.lu conference in October. 
+hack.lu brings many security professionals together. We observe that many people and organisations create open source software to support their security activities, ranging from reverse engineering, digital forensic, incident response (DFIR), threat analysis to network security. Many of the security tools are developed on a long-term commitment and they provide viable solutions to improve security globally. Due to the big success of the first hackathon in May and in order to support the continuity of innovation, development and integration of such open source security tools, we decided to organise a two-days hackathon after the hack.lu conference in October.
 
 Kickoff:    Thursday, 19:15
 
