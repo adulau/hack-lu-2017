@@ -48,7 +48,7 @@ Wednesday 18 October 2017 (Talks)
 | 08:45 | [Keynterceptor: Press any key to continue](http://2017.hack.lu/talks/#keynterceptor-press-any-key-to-continue) ([Niels van Dijkhuizen](http://2017.hack.lu/talks/#bio-niels-van-dijkhuizen)) |
 | 09:30 | [A view into ALPC-RPC](http://2017.hack.lu/talks/#a-view-into-alpc-rpc) ([Clement Rouault](http://2017.hack.lu/talks/#bio-clement-rouault), [Thomas Imbert](http://2017.hack.lu/talks/#bio-thomas-imbert)) |
 | 10:15 | Refreshment break - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"}|
-| 10:30 | [The untold stories of Hackers in Detention](http://2017.hack.lu/talks/#the-untold-stories-of-hackers-in-detention) ([azed](http://2017.hack.lu/talks/#bio-azet) and [JKT](http://2017.hack.lu/talks/#bio-jkt))
+| 10:30 | [The untold stories of Hackers in Detention](http://2017.hack.lu/talks/#the-untold-stories-of-hackers-in-detention) ([azet](http://2017.hack.lu/talks/#bio-azet) and [JKT](http://2017.hack.lu/talks/#bio-jkt))
 | 11:15 | [Keynote: Infosec and failure](http://2017.hack.lu/talks/#infosec-and-failure) ([杏👼Ąż](http://2017.hack.lu/talks/#bio-)) |
 | 12:00 | Lunch - [Hardware shredder for free](https://www.youtube.com/watch?v=9mxL5lA-jx8){:target="\_blank"} |
 | 13:00 | [Lightning talks](http://piratepad.net/2stuvx5AYt)|
