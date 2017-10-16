@@ -30,7 +30,7 @@ The CTF will take place during the hack.lu conference and will last 48h hours li
 
 # Registration
 
-Registration will be opened on Monday and will be closed when the CTF is about to end.
+Registration now open! Fill your form [here](https://flatearth.fluxfingers.net/register).
 
 # What
 
@@ -56,7 +56,7 @@ remote. Direct your questions to somebody at our booth or on
 
 # Points
 
-In order to balance points of misjudged challenges, we changed the bonus point algorithm this year. The bonus points will be calculated dynamically for each challenge, depending on how many teams solved it and how many solves were expected by our team. At the start of the CTF each normal challenge will have additional 100 bonus points, which will be decreased over time. The exact formula will be published when the CTF starts.
+In order to balance points of misjudged challenges, we apply a bonus point algorithm this year. The bonus points will be calculated dynamically for each challenge, depending on how many teams solved it and how many solves were expected by our team. At the start of the CTF each normal challenge will have additional 100 bonus points, which will be decreased over time. The exact formula will be published when the CTF starts.
 
 You will get your usual first blood points, too: First solve of a challenge yields 3 points, second 2 and third 1.
 
