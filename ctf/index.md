@@ -16,7 +16,7 @@ Ruhr-Universität Bochum (Germany). This will be the seventh hack.lu CTF held by
 
 # Who
 
-Everyone may participate (onsite or offsite). If you want to win the prizes, you need to have at least one member of the team onsite.
+Everyone may participate (onsite or offsite). If you want to be eligible for prizes, you need to have at least one member of the team onsite **and** you need to show up at the organizer's registration desk at the conference **before the end of the CTF** so we can change your team status to local.
 
 # When
 
