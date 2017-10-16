@@ -22,15 +22,15 @@ Everyone may participate (onsite or offsite). If you want to win the prizes, you
 
 The CTF will take place during the hack.lu conference and will last 48h hours like in the previous years.
 
-* CTF date not yet decided, but it will be during the conference (17-19 October 2017)
+* Tue, Oct. 17, 10:00 — Thu, Oct. 19, 10:00 UTC 
 
 # Topic
 
-> tba
+> FlatEarth
 
 # Registration
 
-Registration is not yet open
+Registration will be opened on Monday and will be closed when the CTF is about to end.
 
 # What
 
