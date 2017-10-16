@@ -30,7 +30,7 @@ The CTF will take place during the hack.lu conference and will last 48h hours li
 
 # Registration
 
-Registration now open! Fill you form [here](https://flatearth.fluxfingers.net/register).
+Registration now open! Fill your form [here](https://flatearth.fluxfingers.net/register).
 
 # What
 
