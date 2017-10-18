@@ -60,8 +60,8 @@ Wednesday 18 October 2017 (Talks)
 | 16:45 | [WTFrance ?! Cryptography and legislation in France](http://2017.hack.lu/talks/#wtfrance--cryptography-and-legislation-in-france) ([Okhin](http://2017.hack.lu/talks/#bio-okhin)) |
 | 17:30 | [In Soviet Russia, Vulnerability Finds You](http://2017.hack.lu/talks/#in-soviet-russia-vulnerability-finds-you) ([Inbar Raz](http://2017.hack.lu/talks/#bio-inbar-raz))|
 | 18:15 | [Hospitals and infosec (the consequences of bad security in health care)](http://2017.hack.lu/talks/#hospitals-and-infosec-the-consequences-of-bad-security-in-health-care) ([Jelena Milosevic](http://2017.hack.lu/talks/#bio-jelena-milosevic))<!--- static 60 minutes--> |
-| 19:15 | |
-| 20:30 | [Social event]()|
+| 19:15 | [Social event]() including the PowerPoint Karaoke (5 minutes fun for everyone)|
+| 23:00 | |
 {: class="table"}
 
 Thursday 19 October 2017 (Talks)
